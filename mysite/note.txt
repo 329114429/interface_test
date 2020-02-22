@@ -1,0 +1,41 @@
+20190515
+mysite 就是一些设置模板
+
+
+Django中，每一个应用都是一个Python包，并且遵守着相同的约定。
+
+lib 才是 app 程序，自己所写的代码都在这里
+然后通过 mysite 里面的设置
+
+django就是一个框架
+
+settings.py  就是框架的基础设置
+mysite/urls.py 框架的url设置
+
+
+然后大部分的代码写在自己创建的 app 上， 这里的app 命名为 lib
+python3 manage.py startapp lib   这里就是这样命令
+
+
+20190518 12:54
+https://docs.djangoproject.com/zh-hans/2.2/intro/tutorial01/
+项目和应用，项目里可包含应用，应用可被多个项目使用；
+
+
+编辑 models.py 文件，改变模型。
+运行 python manage.py makemigrations 为模型的改变生成迁移文件。
+运行 python manage.py migrate 来应用数据库迁移。
+
+数据库迁移分解成 生成，应用 两个
+
+
+20190520 00:09
+https://docs.djangoproject.com/zh-hans/2.2/intro/tutorial03/
+render 提供
+学习到：编写一个有用的视图
+
+
+
+20190520 23:57
+准备看：编写你的第一个 Django 应用，第 4 部分
+https://docs.djangoproject.com/zh-hans/2.2/intro/tutorial04/
