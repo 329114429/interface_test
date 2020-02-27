@@ -3,10 +3,12 @@ from django.db import models
 
 # Create your models here.
 
+# 当需要修改数据时,需要调用 makemigrations, 让Django迁移项目;
+
 class Topic(models.Model):
     """用户学习主题, 数据库"""
     text = models.CharField(max_length=200)
-    date_add = models.DateTimeField(auto_now_add=True)
+    date_add = models.DateTimeField(auto_now_add=True)  # 记录日期和时间
 
     def __str__(self):
         '''返回模型的字符串表示'''
