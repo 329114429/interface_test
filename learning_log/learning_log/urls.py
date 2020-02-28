@@ -17,11 +17,11 @@ from django.contrib import admin
 from django.urls import path, include
 from learning_logs import views
 
-
 # 系统主的urls
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('learning_logs/', include('learning_logs.urls')),
+    path('users/', include('users.urls')),
 
 ]
