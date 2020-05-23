@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecd4fc1e-0f94-4463-b649-0a1846d41ef1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../typeidea/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adminpassword" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/card/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/card/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/credit/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/credit/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../learning_log/.idea/dataSources/544610c0-3a55-4137-8e2c-153632305b7f.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_log/.idea/dataSources/544610c0-3a55-4137-8e2c-153632305b7f.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../learning_log/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_log/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../learning_log/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_log/.idea/workspace.xml" afterDir="false" />
@@ -28,6 +31,7 @@
       <change beforePath="$PROJECT_DIR$/../student_sys/stundents/models.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../student_sys/stundents/tests.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../student_sys/stundents/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typeidea/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../typeidea/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../xizi_app/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../xizi_app/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../xizi_app/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../xizi_app/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../xizi_app/android_hash/android_hash_password.py" beforeDir="false" afterPath="$PROJECT_DIR$/../xizi_app/android_hash/android_hash_password.py" afterDir="false" />
@@ -39,22 +43,55 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/credit/settings.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1895">
+              <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/credit/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adminpassword">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/card/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/card/models.py" />
+        <option value="$PROJECT_DIR$/credit/settings.py" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
@@ -67,7 +104,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="credit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="credit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="credit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="credit" type="462c0819:PsiDirectoryNode" />
+              <item name="card" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="credit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="credit" type="462c0819:PsiDirectoryNode" />
+              <item name="credit" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -95,15 +152,16 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="credit.settings" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="$PROJECT_DIR$/bin/python" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="launchJavascriptDebuger" value="false" />
       <option name="port" value="8000" />
-      <option name="host" value="" />
+      <option name="host" value="localhost" />
       <option name="additionalOptions" value="" />
       <option name="browserUrl" value="" />
       <option name="runTestServer" value="false" />
@@ -123,15 +181,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590220331493</updated>
-      <workItem from="1590220333293" duration="692000" />
+      <workItem from="1590220333293" duration="2269000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="692000" />
+    <option name="totallyTimeSpent" value="2269000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1021" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
@@ -139,12 +198,12 @@
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Python Console" weight="0.32938644" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32938644" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32938644" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -160,11 +219,29 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/credit/settings.py">
+    <entry file="file://$PROJECT_DIR$/adminpassword">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/card/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/credit/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1895">
+          <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/credit/urls.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
