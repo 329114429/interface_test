@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21edc11f-b34b-403a-942d-dd029c1b3748" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../credit/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../credit/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../credit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../credit/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../credit/card/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../credit/card/admin.py" afterDir="false" />
@@ -23,40 +22,12 @@
       <change beforePath="$PROJECT_DIR$/../learning_log/users/templates/users/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_log/users/templates/users/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../learning_log/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_log/users/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../learning_log/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_log/users/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2b42815d-e3a0-4838-9243-511fe9ad9c9b.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2b42815d-e3a0-4838-9243-511fe9ad9c9b/storage_v2/_src_/schema/main.uQUzAA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mysite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mysite.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/templates/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/templates/lib/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/templates/lib/detail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/views.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/note.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/migrations/0001_initial.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/templates/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/templates/polls/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/templates/polls/detail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/templates/polls/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/templates/polls/results.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/urls.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spiderAppium/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../spiderAppium/.idea/misc.xml" beforeDir="false" />
@@ -91,21 +62,61 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mysite/urls.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/polls/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="480">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/polls/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
-                <element signature="e#630#662#0" expanded="true" />
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/polls/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/polls/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -115,6 +126,11 @@
       <list>
         <option value="$PROJECT_DIR$/mysite/urls.py" />
         <option value="$PROJECT_DIR$/mysite/settings.py" />
+        <option value="$PROJECT_DIR$/adminpassword" />
+        <option value="$PROJECT_DIR$/polls/admin.py" />
+        <option value="$PROJECT_DIR$/polls/models.py" />
+        <option value="$PROJECT_DIR$/polls/views.py" />
+        <option value="$PROJECT_DIR$/polls/urls.py" />
       </list>
     </option>
   </component>
@@ -123,14 +139,19 @@
     <option name="width" value="1920" />
     <option name="height" value="1021" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <showMembers ProjectPane="false" />
+      <showExcludedFiles Scope="true" ProjectPane="true" />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
       <sortByType ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -138,16 +159,28 @@
               <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
               <item name="mysite" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
+              <item name="polls" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -197,59 +230,149 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594524140791</updated>
-      <workItem from="1594524142329" duration="758000" />
+      <workItem from="1594524142329" duration="1352000" />
+      <workItem from="1594638974446" duration="489000" />
+      <workItem from="1594817945319" duration="564000" />
+      <workItem from="1594989862454" duration="5306000" />
+      <workItem from="1595243635116" duration="556000" />
+      <workItem from="1595331373623" duration="571000" />
+      <workItem from="1595423404136" duration="986000" />
+      <workItem from="1595507487782" duration="584000" />
+      <workItem from="1595934809745" duration="577000" />
+      <workItem from="1596025726811" duration="480000" />
+      <workItem from="1596196910194" duration="1132000" />
+      <workItem from="1596452919935" duration="1309000" />
+      <workItem from="1596459196743" duration="511000" />
+      <workItem from="1596543251489" duration="674000" />
+      <workItem from="1596627061023" duration="516000" />
+      <workItem from="1596714581480" duration="989000" />
+      <workItem from="1596866484166" duration="2036000" />
+      <workItem from="1596880209290" duration="39000" />
+      <workItem from="1596880299705" duration="195000" />
+      <workItem from="1596880545414" duration="506000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="758000" />
+    <option name="totallyTimeSpent" value="19372000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1021" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" x="725" y="69" width="469" height="929" id="Project" order="0" visible="true" weight="0.17838125" />
+      <window_info active="true" content_ui="combo" x="725" y="69" width="469" height="929" id="Project" order="0" visible="true" weight="0.21458998" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32938644" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32938644" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32938644" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39935413" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32938644" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005325" side_tool="true" weight="0.32938644" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946752" visible="true" weight="0.32938644" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/polls/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polls/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mysite/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="97" lean-forward="true" selection-start-line="97" selection-end-line="97" />
+        <state relative-caret-position="640">
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polls/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-164" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adminpassword">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mysite/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="460">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="e#630#662#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/polls/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polls/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polls/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/polls/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
