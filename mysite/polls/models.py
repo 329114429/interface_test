@@ -1,8 +1,8 @@
-
 import datetime
 
 from django.db import models
 from django.utils import timezone
+
 
 # Create your models here.
 
@@ -14,7 +14,9 @@ class Question(models.Model):
         return self.question_text
 
     def was_published_recently(self):
-        return self.pub_data >= timezone.now() - datetime.timedelta(days=1) #时间间隔
+        now = timezone.now()
+        return now - datetime.timedelta(days=1) <= self.pub_data <= now
+        # return self.pub_data >= timezone.now() - datetime.timedelta(days=1) #时间间隔
 
 
 class Choice(models.Model):
