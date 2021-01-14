@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Header1</title>
+</head>
+
+<body>
+    <div class="user">
+        {% if request.session.userid %}
+        <span>{{request.session.username}}</span>
+        <a href="/vote/templates/vote/logout.html">注销</a> {% else %}
+        <a href="/vote/templates/vote/login.html">登录</a> {% endif %}
+        <a href="/vote/templates/vote/register.html">注册</a>
+    </div>
+</body>
+
+</html>

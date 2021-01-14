@@ -1,0 +1,97 @@
+<!DOCTYPE html> {% load static %}
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Teacher</title>
+    <style>
+        #container {
+            width: 80%;
+            margin: 10px auto;
+        }
+        
+        .teacher {
+            width: 100%;
+            margin: 0 auto;
+            padding: 10px 0;
+            border-bottom: 1px dashed gray;
+            overflow: auto;
+        }
+        
+        .teacher>div {
+            float: left;
+        }
+        
+        .photo {
+            height: 140px;
+            border-radius: 75px;
+            overflow: hidden;
+            margin-left: 20px;
+        }
+        
+        .info {
+            width: 75%;
+            margin-left: 30px;
+        }
+        
+        .info div {
+            clear: both;
+            margin: 5px 10px;
+        }
+        
+        .info span {
+            margin-right: 25px;
+        }
+        
+        .info a {
+            text-decoration: none;
+            color: darkcyan;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="container">
+        <h1>{{ subject.name }}学科老师信息</h1>
+        <hr> {% if not teachers %}
+        <h2>暂无该学科老师</h2>
+        {% endif%} {% for teacher in teachers %}
+        <div class="teacher">
+            <div class="photo">
+                <img src="/vote/static/image/{{ teacher.photo }}" height="140" alt="">
+            </div>
+            <div>
+                <span><strong>姓名:{{ teacher.name }}</strong></span>
+                <span>性别:{{ teacher.gender }}</span>
+                <span>出生:{{ teacher.birth | date:'Y年n月j日' }}</span>
+            </div>
+            <div class="intro">
+                {{ teacher.intro }}
+            </div>
+            <div class="comment">
+                <a href="">好评</a>(<strong>{{ teacher.good_count }}</strong>)
+                <a href="">差评</a>(<strong>{{ teacher.bad_count }}</strong>)
+            </div>
+        </div>
+        {%endfor%}
+        <a href="/">返回首页</a>
+    </div>
+    <script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
+    <script>
+        $(() => {
+            $('.comment>a').on('click', (evt))
+            evt.preventDefault()
+            let url = $(evt.target).attr('href')
+            $.getJSON(url, (json)) => {
+                if (json.code == 2000) {
+                    $(evt.target).next().text(json.count)
+                } else {
+                    alert(json.mesg)
+                }
+            }
+        })
+    </script>
+
+</body>
+
+</html>

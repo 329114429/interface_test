@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Subject</title>
+    <style>
+        #container {
+            width: 80%;
+            margin: 10px auto;
+        }
+        
+        .user {
+            float: right;
+            margin-right: 10px;
+        }
+        
+        .user>a {
+            margin-right: 10px;
+        }
+        
+        #main>dl>dt {
+            font-size: 1.5em;
+            font-weight: bold;
+        }
+        
+        #main>dl>dt {
+            font-size: 1.2em;
+        }
+        
+        a {
+            text-decoration: none;
+            color: darkcyan;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="container">
+        <h1>所有学科</h1>
+        <hr>
+        <div id="main">
+            <dl v-for="subject in subjects">
+                <dt>
+                    <a href="'/vote/templates/vote/teacher.html?sno='+subject.no">{{subject.name}}</a>
+                    <img v-if="subject.is_hot" src="/vote/static/image/1.png">
+                </dt>
+            </dl>
+        </div>
+    </div>
+    <script src="https://cdn.bootcdn.net/ajax/libs/vue/2.6.11/vue.min.js"></script>
+    <script>
+        let app = new Vue({
+            el: '#main',
+            data: {
+                subjects: []
+            },
+            created() {
+                fetch('/api/subjects/').then(resp => resp.json()).then(json => {
+                    this.subjects = json
+                })
+
+            },
+
+        })
+    </script>
+</body>
+
+</html>

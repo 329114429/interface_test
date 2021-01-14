@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/3.0/ref/settings/
 """
 
 import os
+import pymysql
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -29,9 +30,13 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    'mymodels.apps.MymodelsConfig',
+    'first',
+    'vote',
+    'hrs',
     'polls.apps.PollsConfig',
-    
+    'debug_toolbar',
+    'rest_framework'
+
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -48,6 +53,9 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'debug_toolbar.middleware.DebugToolbarMiddleware',
+    'vote.middlewares.check_login_middleware',
+
 ]
 
 ROOT_URLCONF = 'mysite.urls'
@@ -74,10 +82,22 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
 
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+#     }
+# }
+
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'oa',
+        'HOST': 'localhost',
+        'PORT': 3306,
+        'USER': 'root',
+        'PASSWORD': 'haosuozhong',
+
     }
 }
 
@@ -114,5 +134,95 @@ USE_TZ = True
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
-
+STATICFILES_DIRS = [os.path.join(BASE_DIR, 'vote/static'), ]
 STATIC_URL = '/static/'
+
+LOGGING = {
+    'version': 1,
+
+    # 是否禁用已存在的日志
+    'disable_existing_loggers': False,
+
+    # 日志格式化
+    'formatters': {
+        'simple': {
+            'format': '%(asctime)s %(module)s.%(funcName)s: %(message)s',
+            'datefmt': '%Y-%m-%d %H:%M:%S',
+        },
+        'verbose': {
+            'format': '%(asctime)s %(levelname)s, [%(process)d-%(threadName)s], %(module)s.%(funName)s line %(lineno)d: %(message).',
+            'datefmt': '%Y-%m-%d %H:%M:%S',
+        }
+    },
+
+    # 日志过滤器
+    'filters': {
+        # 只有Django配置文件 DEBUG 值 True时才起作用
+        'require_debug_true': {
+            '()': 'django.utils.log.RequireDebugTrue',
+
+        },
+    },
+
+    # 日志处理器
+    'handlers': {
+        # 输出到控制台
+        'console': {
+            'class': 'logging.StreamHandler',
+            'level': 'DEBUG',
+            'filters': ['require_debug_true'],
+            'formatter': 'simple',
+
+        },
+
+        # 输出到文件 每周切割一次
+        'file1': {
+            'class': 'logging.handlers.TimedRotatingFileHandler',
+            'filename': 'access.log',
+            'when': 'WO',
+            'backupCount': 12,
+            'formatter': 'simple',
+            'level': 'INFO',
+        },
+
+        # 输出到文件(每天切割一次)
+        'file2': {
+            'class': 'logging.handlers.TimedRotatingFileHandler',
+            'filename': 'error.log',
+            'when': 'D',
+            'backupCount': 31,
+            'formatter': 'verbose',
+            'level': 'WARNING',
+        },
+
+    },
+
+    # 日志器记录器
+    'loggers': {
+        'django': {
+            # 需要使用日志处理
+            'handlers': ['console', 'file1', 'file2'],
+            # 是否向上传播日志信息
+            'propagate': True,
+            # 日志级别
+            'level': 'DEBUG',
+        },
+
+    },
+}
+
+DEBUG_TOOLBAR_CONFIG = {
+    # 引入jQuery
+    'JQUERY_URL': 'https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js',
+
+    # 工具栏是否折叠
+    'SHOW_COLLAPSED': True,
+
+    # 是否显示工具栏
+    'SHOW_TOOLBAR_CALLBACK': lambda x: True,
+}
+
+REST_FRAMEWORK = {
+    'PAGE_SIZE': 10,
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
+}
