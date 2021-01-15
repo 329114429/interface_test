@@ -1,0 +1,3 @@
+[submodule "mysite/mysite/haotest2"]
+	path = mysite/mysite/haotest2
+	url = https://github.com/329114429/haotset2.git
