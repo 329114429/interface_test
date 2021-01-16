@@ -38,13 +38,8 @@
       <change beforePath="$PROJECT_DIR$/../learning_log/users/templates/users/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_log/users/templates/users/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../learning_log/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_log/users/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../learning_log/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_log/users/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python100/chapter1-11/6pizza.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python100/chapter1-11/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python100/chapter1-11/deftest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python100/chapter1-11/parrot.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/python100/chapter1-11/two.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100/chapter10/file_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/python100/chapter10/file_reader.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spiderAppium/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../spiderAppium/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../spiderAppium/.idea/modules.xml" beforeDir="false" />
@@ -4448,7 +4443,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/mysite$haobase64.coverage" NAME="haobase64 Coverage Results" MODIFIED="1598758085561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/haotest" />
-    <SUITE FILE_PATH="coverage/mysite$file_reader.coverage" NAME="file_reader Coverage Results" MODIFIED="1610768183805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter10" />
+    <SUITE FILE_PATH="coverage/mysite$file_reader.coverage" NAME="file_reader Coverage Results" MODIFIED="1610790684941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter10" />
     <SUITE FILE_PATH="coverage/mysite$day12.coverage" NAME="day12 Coverage Results" MODIFIED="1609257230098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/day01_15" />
     <SUITE FILE_PATH="coverage/mysite$my_cars.coverage" NAME="my_cars Coverage Results" MODIFIED="1610554955602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter9" />
     <SUITE FILE_PATH="coverage/mysite$car.coverage" NAME="car Coverage Results" MODIFIED="1610553683260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter9" />
@@ -4497,8 +4492,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/python100/chapter10/file_reader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+            <state relative-caret-position="436">
+              <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python100/chapter10/programming.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -4532,6 +4536,7 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
@@ -4643,6 +4648,9 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/python100" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/vote/fonts" />
       <recent name="$PROJECT_DIR$/vote/static/image" />
@@ -4931,22 +4939,23 @@
       <workItem from="1610535752824" duration="3085000" />
       <workItem from="1610622110863" duration="464000" />
       <workItem from="1610641268728" duration="1034000" />
-      <workItem from="1610727003932" duration="3600000" />
+      <workItem from="1610727003932" duration="5719000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="196863000" />
+    <option name="totallyTimeSpent" value="198982000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1021" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" x="725" y="69" width="469" height="929" id="Project" order="0" visible="true" weight="0.20500532" />
+      <window_info content_ui="combo" x="725" y="69" width="469" height="929" id="Project" order="0" visible="true" weight="0.20500532" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32938644" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32938644" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32938644" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39935413" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -4992,33 +5001,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vote/templates/vote/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/first/models.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/first/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/first/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/first/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -5302,6 +5284,22 @@
     <entry file="file://$PROJECT_DIR$/python100/chapter10/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/python100/python源码/chapter_10/pi_30_digits.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python100/python源码/chapter_10/pi_digits.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python100/python源码/chapter_10/pi_million_digits.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python100/chapter10/programming.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/python100/chapter10/pi_digits">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -5311,8 +5309,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python100/chapter10/file_reader.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        <state relative-caret-position="436">
+          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
         </state>
       </provider>
     </entry>
