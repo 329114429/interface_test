@@ -38,6 +38,8 @@
       <change beforePath="$PROJECT_DIR$/../learning_log/users/templates/users/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_log/users/templates/users/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../learning_log/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_log/users/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../learning_log/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_log/users/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100/chapter11/test_name_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/python100/chapter11/test_name_function.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spiderAppium/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../spiderAppium/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../spiderAppium/.idea/modules.xml" beforeDir="false" />
@@ -4457,7 +4459,8 @@
     <SUITE FILE_PATH="coverage/mysite$two__2_.coverage" NAME="two (2) Coverage Results" MODIFIED="1610118444258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter1-11" />
     <SUITE FILE_PATH="coverage/mysite$parrot.coverage" NAME="parrot Coverage Results" MODIFIED="1610270076489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter1-11" />
     <SUITE FILE_PATH="coverage/mysite$my_electric.coverage" NAME="my_electric Coverage Results" MODIFIED="1610554348822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter9" />
-    <SUITE FILE_PATH="coverage/mysite$Unittests_in_test_name_function_py.coverage" NAME="Unittests in test_name_function.py Coverage Results" MODIFIED="1610900729782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter11" />
+    <SUITE FILE_PATH="coverage/mysite$Unittests_in_test_name_function_py.coverage" NAME="Unittests in test_name_function.py Coverage Results" MODIFIED="1610985184385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter11" />
+    <SUITE FILE_PATH="coverage/mysite$language_survey.coverage" NAME="language_survey Coverage Results" MODIFIED="1610985917380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter11" />
     <SUITE FILE_PATH="coverage/mysite$two__1_.coverage" NAME="two (1) Coverage Results" MODIFIED="1609949317844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter1-5" />
     <SUITE FILE_PATH="coverage/mysite$dog.coverage" NAME="dog Coverage Results" MODIFIED="1610467493268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter9" />
     <SUITE FILE_PATH="coverage/mysite$name_function.coverage" NAME="name_function Coverage Results" MODIFIED="1610900630728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter11" />
@@ -4482,19 +4485,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python100/chapter11/name_function.py">
+        <entry file="file://$PROJECT_DIR$/python100/chapter11/survey.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="420">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python100/chapter11/test_name_function.py">
+        <entry file="file://$PROJECT_DIR$/python100/chapter11/language_survey.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            <state>
+              <caret column="31" selection-start-column="31" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -4534,8 +4537,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mysite/__init__.py" />
-        <option value="$PROJECT_DIR$/hrs/admin.py" />
         <option value="$PROJECT_DIR$/hrs/models.py" />
         <option value="$PROJECT_DIR$/vote/templates/vote/subject.html" />
         <option value="$PROJECT_DIR$/vote/templates/vote/login.html" />
@@ -4583,8 +4584,10 @@
         <option value="$PROJECT_DIR$/python100/chapter10/numbers.json" />
         <option value="$PROJECT_DIR$/python100/chapter10/file_reader.py" />
         <option value="$PROJECT_DIR$/python100/chapter11/names.py" />
-        <option value="$PROJECT_DIR$/python100/chapter11/test_name_function.py" />
         <option value="$PROJECT_DIR$/python100/chapter11/name_function.py" />
+        <option value="$PROJECT_DIR$/python100/chapter11/test_name_function.py" />
+        <option value="$PROJECT_DIR$/python100/chapter11/survey.py" />
+        <option value="$PROJECT_DIR$/python100/chapter11/language_survey.py" />
       </list>
     </option>
   </component>
@@ -4606,6 +4609,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -4628,7 +4632,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -4661,29 +4664,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in test_name_function.py">
-    <configuration name="favorite_languages" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="mysite" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python100/chapter9" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python100/chapter9/favorite_languages.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.language_survey">
     <configuration name="file_reader" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mysite" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -4698,6 +4679,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python100/chapter10/file_reader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="language_survey" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="mysite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python100/chapter11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python100/chapter11/language_survey.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -4791,19 +4794,19 @@
     </configuration>
     <list>
       <item itemvalue="Django server.mysite" />
-      <item itemvalue="Python.favorite_languages" />
       <item itemvalue="Python.file_reader" />
       <item itemvalue="Python.names" />
-      <item itemvalue="Python tests.Unittests in test_name_function.py" />
       <item itemvalue="Python.name_function" />
+      <item itemvalue="Python tests.Unittests in test_name_function.py" />
+      <item itemvalue="Python.language_survey" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.language_survey" />
         <item itemvalue="Python tests.Unittests in test_name_function.py" />
         <item itemvalue="Python.name_function" />
         <item itemvalue="Python.names" />
         <item itemvalue="Python.file_reader" />
-        <item itemvalue="Python.favorite_languages" />
       </list>
     </recent_temporary>
   </component>
@@ -4924,17 +4927,12 @@
       <workItem from="1610535752824" duration="3085000" />
       <workItem from="1610622110863" duration="464000" />
       <workItem from="1610641268728" duration="1034000" />
-      <workItem from="1610727003932" duration="11193000" />
+      <workItem from="1610727003932" duration="11347000" />
+      <workItem from="1610968012299" duration="1411000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test_name_function_py - 2021.01.18 at 00h 10m 08s.xml">
-      <configuration name="Unittests in test_name_function.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_test_name_function_py - 2021.01.18 at 00h 12m 09s.xml">
-      <configuration name="Unittests in test_name_function.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_test_name_function_py - 2021.01.18 at 00h 12m 13s.xml">
       <configuration name="Unittests in test_name_function.py" configurationId="tests" />
     </history-entry>
@@ -4956,15 +4954,24 @@
     <history-entry file="Unittests_in_test_name_function_py - 2021.01.18 at 00h 25m 29s.xml">
       <configuration name="Unittests in test_name_function.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_test_name_function_py - 2021.01.18 at 23h 52m 36s.xml">
+      <configuration name="Unittests in test_name_function.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_name_function_py - 2021.01.18 at 23h 52m 56s.xml">
+      <configuration name="Unittests in test_name_function.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_name_function_py - 2021.01.18 at 23h 53m 04s.xml">
+      <configuration name="Unittests in test_name_function.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="204456000" />
+    <option name="totallyTimeSpent" value="206021000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1021" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" x="725" y="69" width="469" height="929" id="Project" order="0" visible="true" weight="0.20500532" />
+      <window_info content_ui="combo" x="725" y="69" width="469" height="929" id="Project" order="0" visible="true" weight="0.20713525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -5015,8 +5022,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vote/migrations/0006_auto_20201207_2343.py" />
-    <entry file="file://$PROJECT_DIR$/vote/migrations/0005_auto_20201207_2342.py" />
     <entry file="file://$PROJECT_DIR$/vote/migrations/0008_auto_20201207_2349.py" />
     <entry file="file://$PROJECT_DIR$/vote/migrations/0007_user_last_visit.py" />
     <entry file="file://$PROJECT_DIR$/vote/migrations/0003_user.py">
@@ -5111,13 +5116,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python100/day01_15/day12.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/python100/day01_15/day12.py" />
     <entry file="file://$PROJECT_DIR$/vote/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="536">
@@ -5165,27 +5164,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python100/chapter1-11/two.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3760">
-          <caret line="188" selection-start-line="188" selection-end-line="188" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python100/chapter1-11/parrot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="72" column="24" selection-start-line="65" selection-start-column="2" selection-end-line="79" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python100/chapter1-11/deftest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="60" column="31" selection-start-line="60" selection-start-column="31" selection-end-line="60" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/python100/chapter1-11/two.py" />
+    <entry file="file://$PROJECT_DIR$/python100/chapter1-11/parrot.py" />
+    <entry file="file://$PROJECT_DIR$/python100/chapter1-11/deftest.py" />
     <entry file="file://$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/pdfgen/canvas.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="10220">
@@ -5193,13 +5174,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python100/chapter1-11/6pizza.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/python100/chapter1-11/6pizza.py" />
     <entry file="file://$PROJECT_DIR$/python100/chapter9/dog.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
@@ -5311,17 +5286,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python100/chapter11/name_function.py">
+    <entry file="file://$PROJECT_DIR$/python100/chapter11/test_name_function.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="360">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python100/chapter11/test_name_function.py">
+    <entry file="file://$PROJECT_DIR$/python100/chapter11/name_function.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        <state relative-caret-position="140">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python100/chapter11/survey.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python100/chapter11/language_survey.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
         </state>
       </provider>
     </entry>
