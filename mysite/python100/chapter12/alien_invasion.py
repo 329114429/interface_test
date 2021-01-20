@@ -1,9 +1,8 @@
-import sys
-
 import pygame
 
 from python100.chapter12.settings import Settings
 from python100.chapter12.ship import Ship
+from python100.chapter12 import game_functions as gf
 
 
 def run_game():
@@ -20,15 +19,12 @@ def run_game():
 
     # 开始游戏的主循环
     while True:
-
         # 监听键盘和鼠标事件
-        for event in pygame.event.get():
-            if event.type == pygame.QUIT:
-                sys.exit()
+        gf.check_events(ship)
+        ship.update()
 
         # 每次循环都重绘屏幕
-        screen.fill(color=ai_settings.bg_color)
-        ship.blitme()
+        gf.update_screen(ai_settings, screen, ship)
 
         # 让最近绘制的屏幕可见
         pygame.display.flip()
