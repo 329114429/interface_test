@@ -10,4 +10,10 @@ class Settings():
         self.bg_color = (230, 230, 230)
 
         # 飞船的速度
-        self.ship_speed_factor = 2
+        self.ship_speed_factor = 7.5
+
+        # 子弹设置
+        self.bullet_speed_factor = 4
+        self.bullet_width = 3
+        self.bullet_height = 15
+        self.bullet_color = 60, 60, 60

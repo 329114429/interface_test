@@ -26,10 +26,13 @@ class Ship():
 
     def update(self):
         # 根据移动标志调整位置
-        if self.moving_right:
-            self.rect.centerx += self.ai_settings.ship_speed_factor
-        if self.moving_left:
-            self.rect.centerx -= self.ai_settings.ship_speed_factor
+        if self.moving_right and self.rect.right < self.screen_rect.right:
+            self.center += self.ai_settings.ship_speed_factor
+        if self.moving_left and self.rect.left > 0:
+            self.center -= self.ai_settings.ship_speed_factor
+
+        # 根据self.center 更新rect对象, 现在可以存入小数
+        self.rect.centerx = self.center
 
     def blitme(self):
         # 在指定的位置绘制飞船， blit 块的意思
