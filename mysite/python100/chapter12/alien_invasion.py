@@ -22,7 +22,11 @@ def run_game():
     # 创建一个子弹组
     bullets = Group()
 
-    alien = Alien(ai_settings, screen)
+    # 创建一个外星人编组
+    aliens = Group()
+
+    # 创建外星人群
+    gf.create_fleet(ai_settings, screen, ship, aliens)
 
     # 开始游戏的主循环
     while True:
@@ -34,7 +38,7 @@ def run_game():
         gf.update_bullets(bullets)
 
         # 每次循环都重绘屏幕
-        gf.update_screen(ai_settings, screen, ship, alien, bullets)
+        gf.update_screen(ai_settings, screen, ship, aliens, bullets)
 
         # 让最近绘制的屏幕可见
         pygame.display.flip()
