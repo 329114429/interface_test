@@ -4,6 +4,7 @@ from pygame.sprite import Group
 from python100.chapter12.settings import Settings
 from python100.chapter12.ship import Ship
 from python100.chapter12 import game_functions as gf
+from python100.chapter13.alien import Alien
 
 
 def run_game():
@@ -21,15 +22,19 @@ def run_game():
     # 创建一个子弹组
     bullets = Group()
 
+    alien = Alien(ai_settings, screen)
+
     # 开始游戏的主循环
     while True:
         # 监听键盘和鼠标事件
         gf.check_events(ai_settings, screen, ship, bullets)
         ship.update()
-        bullets.update()
+
+        # 子弹的更新
+        gf.update_bullets(bullets)
 
         # 每次循环都重绘屏幕
-        gf.update_screen(ai_settings, screen, ship, bullets)
+        gf.update_screen(ai_settings, screen, ship, alien, bullets)
 
         # 让最近绘制的屏幕可见
         pygame.display.flip()

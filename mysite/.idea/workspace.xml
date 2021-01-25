@@ -39,10 +39,249 @@
       <change beforePath="$PROJECT_DIR$/../learning_log/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_log/users/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../learning_log/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_log/users/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/haotest/haobase64.py" beforeDir="false" afterPath="$PROJECT_DIR$/haotest/haobase64.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/BlpImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/BlpImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/BmpImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/BmpImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/BufrStubImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/BufrStubImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/EpsImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/EpsImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/FitsStubImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/FitsStubImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/FliImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/FliImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/FontFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/FontFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/FpxImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/FpxImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/FtexImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/FtexImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/GdImageFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/GdImageFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/GifImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/GifImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/GribStubImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/GribStubImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/Hdf5StubImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/Hdf5StubImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/IcnsImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/IcnsImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/IcoImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/IcoImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/Image.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/Image.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageChops.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageChops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageCms.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageCms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageColor.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageColor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageDraw.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageDraw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageEnhance.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageEnhance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageFilter.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageFilter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageFont.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageFont.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageMath.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageMath.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageMorph.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageMorph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageOps.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageOps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImagePalette.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImagePalette.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageQt.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageQt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageSequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageSequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageShow.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageShow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageStat.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageStat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageTk.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageTk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageTransform.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageTransform.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageWin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImageWin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImtImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/ImtImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/IptcImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/IptcImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/Jpeg2KImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/Jpeg2KImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/JpegImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/JpegImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/JpegPresets.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/JpegPresets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/MicImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/MicImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/MpoImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/MpoImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/MspImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/MspImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/PSDraw.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/PSDraw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/PalmImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/PalmImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/PcdImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/PcdImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/PcxImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/PcxImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/PdfImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/PdfImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/PixarImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/PixarImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/PngImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/PngImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/PpmImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/PpmImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/PsdImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/PsdImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/PyAccess.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/PyAccess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/SgiImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/SgiImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/SpiderImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/SpiderImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/SunImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/SunImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/TgaImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/TgaImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/TiffImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/TiffImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/WalImageFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/WalImageFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/WebPImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/WebPImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/WmfImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/WmfImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/XVThumbImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/XVThumbImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/XbmImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/XbmImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/XpmImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/XpmImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/features.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/PIL/features.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/af/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/af/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/ar/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/ar/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/ast/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/ast/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/az/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/az/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/be/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/be/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/bg/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/bg/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/bn/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/bn/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/br/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/br/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/bs/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/bs/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/ca/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/ca/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/cs/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/cs/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/cy/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/cy/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/da/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/da/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/de/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/de/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/dsb/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/dsb/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/el/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/el/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/en/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/en/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/en_AU/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/en_AU/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/en_GB/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/en_GB/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/eo/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/eo/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/es/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/es/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/es_AR/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/es_AR/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/es_CO/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/es_CO/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/es_MX/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/es_MX/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/es_VE/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/es_VE/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/et/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/et/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/eu/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/eu/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/fa/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/fa/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/fi/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/fi/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/fr/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/fr/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/fy/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/fy/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/ga/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/ga/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/gd/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/gd/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/gl/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/gl/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/he/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/he/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/hi/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/hi/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/hr/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/hr/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/hsb/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/hsb/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/hu/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/hu/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/hy/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/hy/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/ia/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/ia/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/id/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/id/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/io/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/io/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/is/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/is/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/it/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/it/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/ja/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/ja/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/ka/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/ka/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/kab/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/kab/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/kk/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/kk/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/km/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/km/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/kn/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/kn/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/ko/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/ko/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/lb/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/lb/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/lt/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/lt/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/lv/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/lv/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/mk/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/mk/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/ml/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/ml/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/mn/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/mn/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/mr/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/mr/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/my/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/my/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/nb/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/nb/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/ne/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/ne/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/nl/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/nl/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/nn/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/nn/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/os/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/os/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/pa/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/pa/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/pl/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/pl/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/pt/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/pt/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/pt_BR/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/pt_BR/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/ro/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/ro/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/ru/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/ru/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/sk/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/sk/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/sl/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/sl/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/sq/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/sq/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/sr/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/sr/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/sr_Latn/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/sr_Latn/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/sv/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/sv/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/sw/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/sw/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/ta/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/ta/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/te/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/te/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/th/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/th/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/tr/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/tr/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/tt/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/tt/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/udm/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/udm/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/uk/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/uk/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/ur/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/ur/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/uz/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/uz/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/vi/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/vi/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/zh_Hans/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/zh_Hans/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/zh_Hant/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/conf/locale/zh_Hant/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/contrib/admin/static/admin/js/vendor/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/contrib/admin/static/admin/js/vendor/jquery/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/contrib/gis/admin/options.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/contrib/gis/admin/options.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/contrib/gis/gdal/raster/band.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/contrib/gis/gdal/raster/band.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/contrib/gis/gdal/raster/const.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/contrib/gis/gdal/raster/const.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/contrib/gis/gdal/raster/source.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/contrib/gis/gdal/raster/source.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/core/files/images.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/core/files/images.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/db/models/fields/files.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/db/models/fields/files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/forms/fields.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/forms/fields.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/django/template/defaulttags.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/django/template/defaulttags.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pip/_vendor/html5lib/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pip/_vendor/html5lib/constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pip/_vendor/html5lib/filters/sanitizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pip/_vendor/html5lib/filters/sanitizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pip/_vendor/html5lib/html5parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pip/_vendor/html5lib/html5parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pip/_vendor/requests/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pip/_vendor/requests/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pip/_vendor/six.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pip/_vendor/six.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pip/_vendor/urllib3/fields.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pip/_vendor/urllib3/fields.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pip/_vendor/urllib3/packages/six.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pip/_vendor/urllib3/packages/six.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pip/_vendor/urllib3/request.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pip/_vendor/urllib3/request.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/_camera_opencv_highgui.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/_camera_opencv_highgui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/_numpysurfarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/_numpysurfarray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/aliens.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/aliens.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/arraydemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/arraydemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/blit_blends.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/blit_blends.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/camera.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/camera.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/chimp.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/chimp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/dropevent.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/dropevent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/headless_no_windows_needed.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/headless_no_windows_needed.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/liquid.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/liquid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/mask.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/mask.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/midi.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/midi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/moveit.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/moveit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/pixelarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/pixelarray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/scaletest.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/scaletest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/scrap_clipboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/scrap_clipboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/scroll.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/scroll.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/sprite_texture.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/sprite_texture.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/testsprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/testsprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/vgrade.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/examples/vgrade.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/sprite.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/sprite.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/surfarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/surfarray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/tests/freetype_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/tests/freetype_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/tests/image__save_gl_surface_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/tests/image__save_gl_surface_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/tests/image_tags.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/tests/image_tags.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/tests/image_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/tests/image_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/tests/scrap_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/tests/scrap_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/tests/sprite_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/tests/sprite_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/tests/surface_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/tests/surface_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/tests/test_utils/png.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/tests/test_utils/png.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/tests/transform_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/pygame/tests/transform_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/graphics/barcode/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/graphics/barcode/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/graphics/renderPM.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/graphics/renderPM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/graphics/renderPS.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/graphics/renderPS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/graphics/renderSVG.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/graphics/renderSVG.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/graphics/shapes.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/graphics/shapes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/graphics/testshapes.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/graphics/testshapes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/lib/boxstuff.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/lib/boxstuff.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/lib/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/lib/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/lib/yaml.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/lib/yaml.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/pdfbase/pdfdoc.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/pdfbase/pdfdoc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/pdfbase/pdfutils.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/pdfbase/pdfutils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/pdfgen/canvas.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/pdfgen/canvas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/pdfgen/pdfimages.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/pdfgen/pdfimages.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/platypus/figures.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/platypus/figures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/platypus/flowables.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/platypus/flowables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/platypus/paragraph.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/platypus/paragraph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/platypus/paraparser.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/platypus/paraparser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/rest_framework/fields.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/rest_framework/fields.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/rest_framework/metadata.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/rest_framework/metadata.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/rest_framework/static/rest_framework/docs/js/highlight.pack.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/rest_framework/static/rest_framework/docs/js/highlight.pack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/python3.7/site-packages/xlwt/Bitmap.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/python3.7/site-packages/xlwt/Bitmap.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python100/chapter12/alien_invasion.py" beforeDir="false" afterPath="$PROJECT_DIR$/python100/chapter12/alien_invasion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python100/chapter12/game_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/python100/chapter12/game_functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python100/chapter12/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/python100/chapter12/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python100/chapter12/ship.py" beforeDir="false" afterPath="$PROJECT_DIR$/python100/chapter12/ship.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100/python源码/chapter_12/restore_points/restore_point_1_ship_moves/ship.py" beforeDir="false" afterPath="$PROJECT_DIR$/python100/python源码/chapter_12/restore_points/restore_point_1_ship_moves/ship.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100/python源码/chapter_12/restore_points/restore_point_2_fires_bullets/ship.py" beforeDir="false" afterPath="$PROJECT_DIR$/python100/python源码/chapter_12/restore_points/restore_point_2_fires_bullets/ship.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100/python源码/chapter_12/restore_points/restore_point_3_end_chapter_12/ship.py" beforeDir="false" afterPath="$PROJECT_DIR$/python100/python源码/chapter_12/restore_points/restore_point_3_end_chapter_12/ship.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100/python源码/chapter_12/ship.py" beforeDir="false" afterPath="$PROJECT_DIR$/python100/python源码/chapter_12/ship.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100/python源码/chapter_13/alien.py" beforeDir="false" afterPath="$PROJECT_DIR$/python100/python源码/chapter_13/alien.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100/python源码/chapter_13/ship.py" beforeDir="false" afterPath="$PROJECT_DIR$/python100/python源码/chapter_13/ship.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100/python源码/chapter_14/alien.py" beforeDir="false" afterPath="$PROJECT_DIR$/python100/python源码/chapter_14/alien.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100/python源码/chapter_14/button.py" beforeDir="false" afterPath="$PROJECT_DIR$/python100/python源码/chapter_14/button.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100/python源码/chapter_14/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/python100/python源码/chapter_14/scoreboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100/python源码/chapter_14/ship.py" beforeDir="false" afterPath="$PROJECT_DIR$/python100/python源码/chapter_14/ship.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100/python源码/chapter_16/btc-master (16.2)/btc_close_2017.py" beforeDir="false" afterPath="$PROJECT_DIR$/python100/python源码/chapter_16/btc-master (16.2)/btc_close_2017.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vote/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/vote/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spiderAppium/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../spiderAppium/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../spiderAppium/.idea/modules.xml" beforeDir="false" />
@@ -4464,7 +4703,7 @@
     <SUITE FILE_PATH="coverage/mysite$parrot.coverage" NAME="parrot Coverage Results" MODIFIED="1610270076489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter1-11" />
     <SUITE FILE_PATH="coverage/mysite$my_electric.coverage" NAME="my_electric Coverage Results" MODIFIED="1610554348822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter9" />
     <SUITE FILE_PATH="coverage/mysite$Unittests_in_test_name_function_py.coverage" NAME="Unittests in test_name_function.py Coverage Results" MODIFIED="1610985184385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter11" />
-    <SUITE FILE_PATH="coverage/mysite$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1611247180242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter12" />
+    <SUITE FILE_PATH="coverage/mysite$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1611504774372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter12" />
     <SUITE FILE_PATH="coverage/mysite$language_survey.coverage" NAME="language_survey Coverage Results" MODIFIED="1610985943046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter11" />
     <SUITE FILE_PATH="coverage/mysite$two__1_.coverage" NAME="two (1) Coverage Results" MODIFIED="1609949317844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter1-5" />
     <SUITE FILE_PATH="coverage/mysite$dog.coverage" NAME="dog Coverage Results" MODIFIED="1610467493268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter9" />
@@ -4492,8 +4731,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python100/chapter12/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+            <state relative-caret-position="380">
+              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -4501,8 +4740,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python100/chapter12/bullet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+            <state relative-caret-position="440">
+              <caret line="24" column="14" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="14" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -4513,8 +4752,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python100/chapter12/alien_invasion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+            <state relative-caret-position="680">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -4522,11 +4761,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python100/chapter12/game_functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+            <state relative-caret-position="1060">
+              <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -4534,11 +4773,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python100/chapter12/ship.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python100/chapter13/alien.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-179">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="540">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -4578,7 +4820,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/vote/vote_captcha.py" />
         <option value="$PROJECT_DIR$/first/templates/index.html" />
         <option value="$PROJECT_DIR$/first/views.py" />
         <option value="$PROJECT_DIR$/first/urls.py" />
@@ -4626,9 +4867,10 @@
         <option value="$PROJECT_DIR$/python100/chapter11/test_survey.py" />
         <option value="$PROJECT_DIR$/python100/chapter12/ship.py" />
         <option value="$PROJECT_DIR$/python100/chapter12/bullet.py" />
-        <option value="$PROJECT_DIR$/python100/chapter12/game_functions.py" />
-        <option value="$PROJECT_DIR$/python100/chapter12/alien_invasion.py" />
         <option value="$PROJECT_DIR$/python100/chapter12/settings.py" />
+        <option value="$PROJECT_DIR$/python100/chapter12/alien.py" />
+        <option value="$PROJECT_DIR$/python100/chapter12/alien_invasion.py" />
+        <option value="$PROJECT_DIR$/python100/chapter12/game_functions.py" />
       </list>
     </option>
   </component>
@@ -4650,6 +4892,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -4672,35 +4915,19 @@
               <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
               <item name="mysite" type="462c0819:PsiDirectoryNode" />
               <item name="python100" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter12" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter13" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
               <item name="mysite" type="462c0819:PsiDirectoryNode" />
               <item name="python100" type="462c0819:PsiDirectoryNode" />
-              <item name="python源码" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mysite" type="462c0819:PsiDirectoryNode" />
-              <item name="python100" type="462c0819:PsiDirectoryNode" />
-              <item name="python源码" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_12" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mysite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mysite" type="462c0819:PsiDirectoryNode" />
-              <item name="python100" type="462c0819:PsiDirectoryNode" />
-              <item name="python源码" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter_12" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter13" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -4712,14 +4939,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/python100/chapter13" />
+      <recent name="$PROJECT_DIR$/python100/chapter13/images" />
+      <recent name="$PROJECT_DIR$/python100" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/python100/chapter12/images" />
       <recent name="$PROJECT_DIR$/vote/fonts" />
       <recent name="$PROJECT_DIR$/vote/static/image" />
       <recent name="$PROJECT_DIR$/haotest" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/python100" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -4995,7 +5224,10 @@
       <workItem from="1611060345212" duration="1811000" />
       <workItem from="1611071410264" duration="2876000" />
       <workItem from="1611140568341" duration="4267000" />
-      <workItem from="1611228533064" duration="3866000" />
+      <workItem from="1611228533064" duration="4004000" />
+      <workItem from="1611408213769" duration="3775000" />
+      <workItem from="1611573228288" duration="752000" />
+      <workItem from="1611585670581" duration="488000" />
     </task>
     <servers />
   </component>
@@ -5032,18 +5264,18 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="219921000" />
+    <option name="totallyTimeSpent" value="225074000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1021" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" x="725" y="69" width="469" height="929" id="Project" order="0" visible="true" weight="0.21565495" />
+      <window_info content_ui="combo" x="725" y="69" width="469" height="929" id="Project" order="0" visible="true" weight="0.22204472" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32938644" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28094727" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28094727" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39935413" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -5066,17 +5298,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python100/day01_15/day12.py" />
-    <entry file="file://$PROJECT_DIR$/vote/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="536">
-          <caret line="68" selection-start-line="68" selection-end-line="68" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vote/middlewares.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -5301,12 +5522,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python100/python源码/chapter_13/images/alien.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python100/python源码/chapter_13/images/ship.bmp">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/python100/python源码/chapter_12/installing_pip.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -5321,10 +5536,33 @@
     <entry file="file://$PROJECT_DIR$/python100/chapter12/images/ship.bmp">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/python100/python源码/chapter_13/images/alien.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python100/chapter12/ship.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python100/python源码/chapter_13/images/ship.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python100/chapter13/images/alien.bmp">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python100/chapter12/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/python100/chapter12/bullet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        <state relative-caret-position="440">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="14" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
@@ -5333,34 +5571,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python100/chapter12/alien_invasion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        <state relative-caret-position="680">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python100/chapter12/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python100/chapter12/ship.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-179">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python100/chapter12/game_functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="22" column="36" lean-forward="true" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+        <state relative-caret-position="1060">
+          <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python100/chapter13/alien.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>

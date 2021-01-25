@@ -137,5 +137,5 @@ with open('收盘价Dashboard.html', 'w', encoding='utf8') as html_file:
             '收盘价周日均值（¥）.svg', '收盘价星期均值（¥）.svg'
     ]:
         html_file.write(
-            '    <object type="image/svg+xml" data="{0}" height=500></object>\n'.format(svg))  # 1
+            '    <object type="images/svg+xml" data="{0}" height=500></object>\n'.format(svg))  # 1
     html_file.write('</body></html>')

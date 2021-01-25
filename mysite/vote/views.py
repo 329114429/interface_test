@@ -245,7 +245,7 @@ def get_captcha(request: HttpRequest) -> HttpResponse:
     captcha_text = utils.gen_random_code()
     request.session['captcha'] = captcha_text
     image_data = Captcha.instance().generate(captcha_text)
-    return HttpResponse(image_data, content_type='image/png')
+    return HttpResponse(image_data, content_type='images/png')
 
 
 def export_teachers_excel(request):
