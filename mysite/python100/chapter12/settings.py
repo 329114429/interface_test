@@ -11,6 +11,8 @@ class Settings():
 
         # 飞船的速度
         self.ship_speed_factor = 7.5
+
+        # 飞船的生命值
         self.ship_limit = 3
 
         # 子弹设置
