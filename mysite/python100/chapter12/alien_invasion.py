@@ -7,6 +7,7 @@ from python100.chapter12 import game_functions as gf
 from python100.chapter13.alien import Alien
 from python100.chapter13.game_stats import GameStats
 from python100.chapter13.Button import Button
+from python100.chapter13.scoreboard import Scoreboard
 
 
 def run_game():
@@ -30,6 +31,9 @@ def run_game():
     # 创建一个存储游戏统计信息的实例
     stats = GameStats(ai_settings)
 
+    # 创建计分
+    sb = Scoreboard(ai_settings, screen, stats)
+
     # 创建外星人群
     gf.create_fleet(ai_settings, screen, ship, aliens)
 
@@ -39,19 +43,19 @@ def run_game():
     # 开始游戏的主循环
     while True:
         # 监听键盘和鼠标事件
-        gf.check_events(ai_settings, screen, stats, play_button, ship, bullets)
+        gf.check_events(ai_settings, screen, stats, play_button, ship, aliens, bullets)
 
         if stats.game_active:
             ship.update()
 
             # 子弹的更新
-            gf.update_bullets(ai_settings, screen, ship, aliens, bullets)
+            gf.update_bullets(ai_settings, screen, stats, sb, ship, aliens, bullets)
 
             # 更新外星人
             gf.update_aliens(ai_settings, stats, screen, ship, aliens, bullets)
 
         # 每次循环都重绘屏幕
-        gf.update_screen(ai_settings, screen, stats, ship, aliens, bullets, play_button)
+        gf.update_screen(ai_settings, screen, stats, sb, ship, aliens, bullets, play_button)
 
         # 让最近绘制的屏幕可见
         pygame.display.flip()
