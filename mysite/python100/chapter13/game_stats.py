@@ -8,6 +8,9 @@ class GameStats():
         # 游戏活动状态
         self.game_active = False
 
+        # 不设置最高得分
+        self.high_score = 0
+
     def reset_stats(self):
         # 初始化游戏，统计信息
         self.ships_left = self.ai_settings.ship_limit

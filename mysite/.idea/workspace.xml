@@ -39,10 +39,9 @@
       <change beforePath="$PROJECT_DIR$/../learning_log/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_log/users/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../learning_log/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_log/users/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python100/chapter12/alien_invasion.py" beforeDir="false" afterPath="$PROJECT_DIR$/python100/chapter12/alien_invasion.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python100/chapter12/game_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/python100/chapter12/game_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python100/chapter12/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/python100/chapter12/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/python100/chapter13/game_stats.py" beforeDir="false" afterPath="$PROJECT_DIR$/python100/chapter13/game_stats.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python100/chapter13/scoreboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/python100/chapter13/scoreboard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spiderAppium/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../spiderAppium/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../spiderAppium/.idea/modules.xml" beforeDir="false" />
@@ -4447,28 +4446,29 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/mysite$haobase64.coverage" NAME="haobase64 Coverage Results" MODIFIED="1598758085561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/haotest" />
     <SUITE FILE_PATH="coverage/mysite$file_reader.coverage" NAME="file_reader Coverage Results" MODIFIED="1610899537526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter10" />
-    <SUITE FILE_PATH="coverage/mysite$day12.coverage" NAME="day12 Coverage Results" MODIFIED="1609257230098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/day01_15" />
     <SUITE FILE_PATH="coverage/mysite$my_cars.coverage" NAME="my_cars Coverage Results" MODIFIED="1610554955602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter9" />
     <SUITE FILE_PATH="coverage/mysite$Unittests_in_test_survey_py.coverage" NAME="Unittests in test_survey.py Coverage Results" MODIFIED="1610986761329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter11" />
     <SUITE FILE_PATH="coverage/mysite$car.coverage" NAME="car Coverage Results" MODIFIED="1610553683260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter9" />
-    <SUITE FILE_PATH="coverage/mysite$6pizza.coverage" NAME="6pizza Coverage Results" MODIFIED="1610381342788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter1-11" />
+    <SUITE FILE_PATH="coverage/mysite$scoreboard.coverage" NAME="scoreboard Coverage Results" MODIFIED="1612196052147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter13" />
     <SUITE FILE_PATH="coverage/mysite$tests.coverage" NAME="tests Coverage Results" MODIFIED="1598166946376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/polls" />
     <SUITE FILE_PATH="coverage/mysite$day02.coverage" NAME="day02 Coverage Results" MODIFIED="1606234357661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/day01_15" />
     <SUITE FILE_PATH="coverage/mysite$favorite_languages.coverage" NAME="favorite_languages Coverage Results" MODIFIED="1610727068368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter9" />
     <SUITE FILE_PATH="coverage/mysite$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1598758059501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysite" />
-    <SUITE FILE_PATH="coverage/mysite$my_car.coverage" NAME="my_car Coverage Results" MODIFIED="1610554097964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter9" />
     <SUITE FILE_PATH="coverage/mysite$names.coverage" NAME="names Coverage Results" MODIFIED="1610900084259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter11" />
-    <SUITE FILE_PATH="coverage/mysite$deftest.coverage" NAME="deftest Coverage Results" MODIFIED="1610380534070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter1-11" />
     <SUITE FILE_PATH="coverage/mysite$two.coverage" NAME="two Coverage Results" MODIFIED="1609775218051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter2" />
     <SUITE FILE_PATH="coverage/mysite$two__2_.coverage" NAME="two (2) Coverage Results" MODIFIED="1610118444258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter1-11" />
     <SUITE FILE_PATH="coverage/mysite$parrot.coverage" NAME="parrot Coverage Results" MODIFIED="1610270076489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter1-11" />
     <SUITE FILE_PATH="coverage/mysite$my_electric.coverage" NAME="my_electric Coverage Results" MODIFIED="1610554348822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter9" />
-    <SUITE FILE_PATH="coverage/mysite$Unittests_in_test_name_function_py.coverage" NAME="Unittests in test_name_function.py Coverage Results" MODIFIED="1610985184385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter11" />
-    <SUITE FILE_PATH="coverage/mysite$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1612110280136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter12" />
-    <SUITE FILE_PATH="coverage/mysite$language_survey.coverage" NAME="language_survey Coverage Results" MODIFIED="1610985943046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter11" />
-    <SUITE FILE_PATH="coverage/mysite$two__1_.coverage" NAME="two (1) Coverage Results" MODIFIED="1609949317844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter1-5" />
     <SUITE FILE_PATH="coverage/mysite$dog.coverage" NAME="dog Coverage Results" MODIFIED="1610467493268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter9" />
     <SUITE FILE_PATH="coverage/mysite$name_function.coverage" NAME="name_function Coverage Results" MODIFIED="1610900630728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter11" />
+    <SUITE FILE_PATH="coverage/mysite$day12.coverage" NAME="day12 Coverage Results" MODIFIED="1609257230098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/day01_15" />
+    <SUITE FILE_PATH="coverage/mysite$6pizza.coverage" NAME="6pizza Coverage Results" MODIFIED="1610381342788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter1-11" />
+    <SUITE FILE_PATH="coverage/mysite$my_car.coverage" NAME="my_car Coverage Results" MODIFIED="1610554097964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter9" />
+    <SUITE FILE_PATH="coverage/mysite$deftest.coverage" NAME="deftest Coverage Results" MODIFIED="1610380534070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter1-11" />
+    <SUITE FILE_PATH="coverage/mysite$Unittests_in_test_name_function_py.coverage" NAME="Unittests in test_name_function.py Coverage Results" MODIFIED="1610985184385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter11" />
+    <SUITE FILE_PATH="coverage/mysite$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1612196172250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter12" />
+    <SUITE FILE_PATH="coverage/mysite$language_survey.coverage" NAME="language_survey Coverage Results" MODIFIED="1610985943046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter11" />
+    <SUITE FILE_PATH="coverage/mysite$two__1_.coverage" NAME="two (1) Coverage Results" MODIFIED="1609949317844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python100/chapter1-5" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -4489,32 +4489,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python100/chapter12/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python100/chapter12/bullet.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python100/chapter12/alien_invasion.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="1240">
+              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -4525,17 +4504,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python100/chapter13/game_stats.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="320">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/python100/chapter13/scoreboard.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+            <state relative-caret-position="501">
+              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
             </state>
           </provider>
         </entry>
@@ -4550,21 +4529,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python100/chapter12/game_functions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="116" column="24" lean-forward="true" selection-start-line="116" selection-start-column="24" selection-end-line="116" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python100/chapter13/alien.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="-40">
               <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
@@ -4576,8 +4543,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/python100/chapter12/ship.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
+            <state relative-caret-position="528">
               <caret line="32" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python100/chapter12/game_functions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="85" column="11" lean-forward="true" selection-start-line="85" selection-start-column="11" selection-end-line="85" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -4605,6 +4584,8 @@
       <find>ship_hit</find>
       <find>check_play</find>
       <find>check_bull</find>
+      <find>high_score_image</find>
+      <find>collis</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -4667,11 +4648,11 @@
         <option value="$PROJECT_DIR$/python100/chapter13/alien.py" />
         <option value="$PROJECT_DIR$/python100/chapter12/ship.py" />
         <option value="$PROJECT_DIR$/python100/chapter13/Button.py" />
-        <option value="$PROJECT_DIR$/python100/chapter13/scoreboard.py" />
-        <option value="$PROJECT_DIR$/python100/chapter12/alien_invasion.py" />
-        <option value="$PROJECT_DIR$/python100/chapter13/game_stats.py" />
-        <option value="$PROJECT_DIR$/python100/chapter12/game_functions.py" />
         <option value="$PROJECT_DIR$/python100/chapter12/settings.py" />
+        <option value="$PROJECT_DIR$/python100/chapter12/alien_invasion.py" />
+        <option value="$PROJECT_DIR$/python100/chapter12/game_functions.py" />
+        <option value="$PROJECT_DIR$/python100/chapter13/game_stats.py" />
+        <option value="$PROJECT_DIR$/python100/chapter13/scoreboard.py" />
       </list>
     </option>
   </component>
@@ -4802,7 +4783,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="name_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="scoreboard" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="mysite" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -4810,12 +4791,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python100/chapter11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python100/chapter13" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python100/chapter11/name_function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python100/chapter13/scoreboard.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -4880,19 +4861,19 @@
     </configuration>
     <list>
       <item itemvalue="Django server.mysite" />
-      <item itemvalue="Python.name_function" />
       <item itemvalue="Python.language_survey" />
       <item itemvalue="Python.alien_invasion" />
       <item itemvalue="Python tests.Unittests in test_name_function.py" />
       <item itemvalue="Python tests.Unittests in test_survey.py" />
+      <item itemvalue="Python.scoreboard" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.alien_invasion" />
+        <item itemvalue="Python.scoreboard" />
         <item itemvalue="Python tests.Unittests in test_survey.py" />
         <item itemvalue="Python.language_survey" />
         <item itemvalue="Python tests.Unittests in test_name_function.py" />
-        <item itemvalue="Python.name_function" />
       </list>
     </recent_temporary>
   </component>
@@ -5025,7 +5006,8 @@
       <workItem from="1611659725721" duration="3528000" />
       <workItem from="1611746029462" duration="2053000" />
       <workItem from="1611832001538" duration="8850000" />
-      <workItem from="1612010854819" duration="3339000" />
+      <workItem from="1612010854819" duration="3910000" />
+      <workItem from="1612178079208" duration="4115000" />
     </task>
     <servers />
   </component>
@@ -5062,13 +5044,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="246712000" />
+    <option name="totallyTimeSpent" value="251398000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1021" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" x="725" y="69" width="469" height="929" id="Project" order="0" visible="true" weight="0.23056443" />
+      <window_info content_ui="combo" x="725" y="69" width="469" height="929" id="Project" order="0" visible="true" weight="0.23269436" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -5096,15 +5078,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/python100/chapter1-11/parrot.py" />
-    <entry file="file://$PROJECT_DIR$/python100/chapter1-11/deftest.py" />
-    <entry file="file://$PROJECT_DIR$/lib/python3.7/site-packages/reportlab/pdfgen/canvas.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10220">
-          <caret line="527" column="29" selection-start-line="527" selection-start-column="29" selection-end-line="527" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python100/chapter1-11/6pizza.py" />
     <entry file="file://$PROJECT_DIR$/python100/chapter9/dog.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -5319,6 +5292,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/python100/chapter12/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="31" column="42" lean-forward="true" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/python100/chapter12/bullet.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -5326,6 +5306,33 @@
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python100/python源码/chapter_14/scoreboard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python100/python源码/chapter_14/game_stats.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python100/python源码/chapter_14/game_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="90" column="7" selection-start-line="90" selection-start-column="7" selection-end-line="90" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python100/chapter13/game_stats.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -5338,7 +5345,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python100/chapter13/alien.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="-40">
           <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
@@ -5348,49 +5355,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/python100/chapter12/ship.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
+        <state relative-caret-position="528">
           <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python100/chapter13/scoreboard.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python100/chapter12/alien_invasion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="1240">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python100/chapter13/game_stats.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python100/chapter12/game_functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="116" column="24" lean-forward="true" selection-start-line="116" selection-start-column="24" selection-end-line="116" selection-end-column="24" />
+        <state relative-caret-position="207">
+          <caret line="85" column="11" lean-forward="true" selection-start-line="85" selection-start-column="11" selection-end-line="85" selection-end-column="11" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python100/chapter12/settings.py">
+    <entry file="file://$PROJECT_DIR$/python100/chapter13/scoreboard.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="501">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
         </state>
       </provider>
     </entry>
