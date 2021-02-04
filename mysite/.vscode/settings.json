@@ -3,6 +3,10 @@
     "editor.fontLigatures": true,
     "python.linting.pylintCategorySeverity.error": "Hint",
     "python.linting.pylintCategorySeverity.warning": "Hint",
+    "python.analysis.watchSearchPaths":true,
+    "python.analysis.extraPaths":[
+        "./mysite/python100/chapter15"
+    ]
 
 
 
