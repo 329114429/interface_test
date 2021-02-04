@@ -1,4 +1,5 @@
 from django.db import models
+from django.contrib.auth.models import User
 
 
 # Create your models here.
@@ -9,6 +10,7 @@ class Topic(models.Model):
     """用户学习主题, 数据库"""
     text = models.CharField(max_length=200)
     date_add = models.DateTimeField(auto_now_add=True)  # 记录日期和时间
+    owner = models.ForeignKey(User, on_delete=models.CASCADE)   # 在老版本这个参数（models.CASCADE）是默认值
 
     def __str__(self):
         '''返回模型的字符串表示'''
@@ -27,4 +29,3 @@ class Entry(models.Model):
     def __str__(self):
         '''返回模型的字符串表示'''
         return self.text[:50] + "..."
-

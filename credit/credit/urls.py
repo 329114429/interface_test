@@ -15,7 +15,10 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path, include
+from card import urls
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('card/', include(urls, namespace='card')),
+    path('countdown/', include(urls, namespace='countdown')),
 ]

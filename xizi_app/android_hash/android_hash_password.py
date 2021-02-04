@@ -8,13 +8,14 @@ def str_encrypt(str):
       使用sha1加密算法，返回str加密后的字符串
       """
     sha = hashlib.sha1(str.encode("utf-8"))
+
     encrypts = sha.hexdigest()
     print(encrypts)
     return encrypts
 
 
 if __name__ == '__main__':
-    path = "/Users/hao/PycharmProjects/xizi_app/android_hash/1xizihupan_v4.16.0.apk"
+    path = "/Users/hao/PycharmProjects/xizi_app/v4_16_1/xizihupan_v4.16.1.apk"
     str_encrypt(path)
 
     # 308fef3b132ea948a439f39054644182e989f03f

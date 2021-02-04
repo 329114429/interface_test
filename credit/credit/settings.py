@@ -30,6 +30,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'card',
+    'countdown',
 
     'django.contrib.admin',
     'django.contrib.auth',

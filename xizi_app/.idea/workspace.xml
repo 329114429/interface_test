@@ -1,7 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65c3b019-459b-4873-8bac-cf95ab14be31" name="Default Changelist" comment="" />
+    <list default="true" id="65c3b019-459b-4873-8bac-cf95ab14be31" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../mysite/adminpassword.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/vote/fonts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/vote/fonts/msyh.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/vote/fonts/msyhbd.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/vote/static/image/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/vote/static/image/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python100/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zentao/analysis/line.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../credit/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../credit/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../credit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../credit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../credit/card/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../credit/card/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../credit/card/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../credit/card/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../credit/card/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../credit/card/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../credit/credit/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../credit/credit/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../credit/credit/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../credit/credit/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../credit/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../credit/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_log/.idea/dataSources/544610c0-3a55-4137-8e2c-153632305b7f.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_log/.idea/dataSources/544610c0-3a55-4137-8e2c-153632305b7f.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_log/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_log/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_log/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_log/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_log/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_log/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_log/learning_log/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_log/learning_log/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_log/learning_logs/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_log/learning_logs/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_log/learning_logs/templates/learning_logs/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_log/learning_logs/templates/learning_logs/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_log/learning_logs/templates/learning_logs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_log/learning_logs/templates/learning_logs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_log/learning_logs/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_log/learning_logs/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_log/users/templates/users/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_log/users/templates/users/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_log/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_log/users/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning_log/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../learning_log/users/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/adminpassword" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/lib/python3.7/site-packages/django/contrib/admin/sites.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/lib/python3.7/site-packages/django/contrib/admin/sites.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/lib/python3.7/site-packages/django/contrib/auth/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/lib/python3.7/site-packages/django/contrib/auth/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mymodels/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mymodels/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mymodels/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mymodels/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mymodels/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mymodels/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mymodels/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mymodels/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mysite/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/mysite/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysite/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../mysite/mysite/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spiderAppium/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spiderAppium/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spiderAppium/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spiderAppium/.idea/spiderAppium.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spiderAppium/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spiderAppium/androidApp/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spiderAppium/androidApp/appAndroid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spiderAppium/pyspidertest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student_sys/.idea/student_sys.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../student_sys/.idea/student_sys.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student_sys/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../student_sys/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student_sys/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../student_sys/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student_sys/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../student_sys/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student_sys/student_sys/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../student_sys/student_sys/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student_sys/student_sys/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../student_sys/student_sys/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student_sys/stundents/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student_sys/stundents/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student_sys/stundents/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student_sys/stundents/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student_sys/stundents/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student_sys/stundents/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../student_sys/stundents/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typeidea/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../typeidea/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android_hash/1xizihupan_v4.16.0.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android_hash/android_hash_password.py" beforeDir="false" afterPath="$PROJECT_DIR$/android_hash/android_hash_password.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android_hash/xZQuan-release-西子湖畔App-20190411-02.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android_hash/xizihupan_v4.16.0.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zentao/analysis/histogram.py" beforeDir="false" afterPath="$PROJECT_DIR$/zentao/analysis/histogram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zentao/mysqlconnect.py" beforeDir="false" afterPath="$PROJECT_DIR$/zentao/mysqlconnect.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,15 +84,79 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/xizi_app$android_hash_password.coverage" NAME="android_hash_password Coverage Results" MODIFIED="1582364754198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/android_hash" />
+    <SUITE FILE_PATH="coverage/xizi_app$android_hash_password.coverage" NAME="android_hash_password Coverage Results" MODIFIED="1583395777438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/android_hash" />
+    <SUITE FILE_PATH="coverage/xizi_app$line.coverage" NAME="line Coverage Results" MODIFIED="1609689451709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zentao/analysis" />
+    <SUITE FILE_PATH="coverage/xizi_app$histogram.coverage" NAME="histogram Coverage Results" MODIFIED="1609683018609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zentao/analysis" />
+    <SUITE FILE_PATH="coverage/xizi_app$bar.coverage" NAME="bar Coverage Results" MODIFIED="1609691442626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zentao/analysis" />
+    <SUITE FILE_PATH="coverage/xizi_app$hash_test.coverage" NAME="hash_test Coverage Results" MODIFIED="1609551302392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Android_xizihupan" />
+    <SUITE FILE_PATH="coverage/xizi_app$mysqlconnect.coverage" NAME="mysqlconnect Coverage Results" MODIFIED="1609571677442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/zentao" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/android_hash/android_hash_password.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zentao/mysqlconnect.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+            <state relative-caret-position="2480">
+              <caret line="124" column="31" selection-start-line="124" selection-start-column="31" selection-end-line="124" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zentao/analysis/line.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="85" selection-start-line="20" selection-start-column="85" selection-end-line="20" selection-end-column="85" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zentao/analysis/barh.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="542">
+              <caret line="129" selection-start-line="129" selection-end-line="129" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zentao/analysis/histogram.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2320">
+              <caret line="123" column="118" selection-start-line="123" selection-start-column="64" selection-end-line="123" selection-end-column="118" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zentao/analysis/bar.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -32,16 +171,24 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Android_xizihupan/hash_test.py" />
         <option value="$PROJECT_DIR$/android_hash/android_hash_password.py" />
+        <option value="$PROJECT_DIR$/Android_xizihupan/hash_price.py" />
+        <option value="$PROJECT_DIR$/zentao/analysis/bar.py" />
+        <option value="$PROJECT_DIR$/zentao/analysis/barh.py" />
+        <option value="$PROJECT_DIR$/zentao/analysis/histogram.py" />
+        <option value="$PROJECT_DIR$/zentao/mysqlconnect.py" />
+        <option value="$PROJECT_DIR$/zentao/analysis/line.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1920" />
     <option name="height" value="1021" />
@@ -63,7 +210,13 @@
             <path>
               <item name="xizi_app" type="b2602c69:ProjectViewProjectNode" />
               <item name="xizi_app" type="462c0819:PsiDirectoryNode" />
-              <item name="android_hash" type="462c0819:PsiDirectoryNode" />
+              <item name="zentao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xizi_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xizi_app" type="462c0819:PsiDirectoryNode" />
+              <item name="zentao" type="462c0819:PsiDirectoryNode" />
+              <item name="analysis" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -76,9 +229,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/v4_16_1" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/v4_17_0" />
       <recent name="$PROJECT_DIR$/android_hash" />
     </key>
   </component>
@@ -94,8 +252,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="android_hash_password" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.bar">
+    <configuration name="bar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="xizi_app" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,12 +261,100 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/android_hash" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zentao/analysis" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/android_hash/android_hash_password.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zentao/analysis/barh.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hash_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="xizi_app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Android_xizihupan" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Android_xizihupan/hash_price.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="histogram" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="xizi_app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zentao/analysis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zentao/analysis/histogram.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="line" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="xizi_app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zentao/analysis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zentao/analysis/line.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mysqlconnect" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="xizi_app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zentao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zentao/mysqlconnect.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +365,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.android_hash_password" />
+        <item itemvalue="Python.bar" />
+        <item itemvalue="Python.line" />
+        <item itemvalue="Python.histogram" />
+        <item itemvalue="Python.mysqlconnect" />
+        <item itemvalue="Python.hash_test" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +387,22 @@
       <workItem from="1580658514127" duration="603000" />
       <workItem from="1582364486417" duration="4169000" />
       <workItem from="1582432883423" duration="106000" />
-      <workItem from="1582448023414" duration="570000" />
+      <workItem from="1582448023414" duration="2756000" />
+      <workItem from="1583240978251" duration="1165000" />
+      <workItem from="1583310748924" duration="4956000" />
+      <workItem from="1583366616266" duration="10254000" />
+      <workItem from="1584264492922" duration="1024000" />
+      <workItem from="1584751835723" duration="16000" />
+      <workItem from="1584848083484" duration="715000" />
+      <workItem from="1585303754313" duration="598000" />
+      <workItem from="1585975270528" duration="570000" />
+      <workItem from="1586574171917" duration="457000" />
+      <workItem from="1586787995833" duration="566000" />
+      <workItem from="1587129426736" duration="494000" />
+      <workItem from="1609509020357" duration="875000" />
+      <workItem from="1609550195892" duration="3721000" />
+      <workItem from="1609554537291" duration="18969000" />
+      <workItem from="1609758104957" duration="597000" />
     </task>
     <task id="LOCAL-00001" summary="app android">
       <created>1582364731250</created>
@@ -146,37 +411,95 @@
       <option name="project" value="LOCAL" />
       <updated>1582364731250</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="删除app">
+      <created>1582709393415</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582709393415</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hash_test 才是可以的">
+      <created>1583312999716</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583312999716</updated>
+    </task>
+    <task id="LOCAL-00004" summary="hash_test 才是可以的">
+      <created>1583370258241</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583370258241</updated>
+    </task>
+    <task id="LOCAL-00005" summary="hash_test 才是可以的">
+      <created>1583395816104</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1583395816104</updated>
+    </task>
+    <task id="LOCAL-00006" summary="v4.16.1">
+      <created>1583396027030</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1583396027030</updated>
+    </task>
+    <task id="LOCAL-00007" summary="v4.16.1">
+      <created>1583638162805</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1583638162805</updated>
+    </task>
+    <task id="LOCAL-00008" summary="v4.17.0">
+      <created>1584264715749</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1584264715749</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9352000" />
+    <option name="totallyTimeSpent" value="56515000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1021" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="1021" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2603834" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30298188" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32938644" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32938644" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27664155" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.08503768" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32938644" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32938644" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32938644" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.27635783" />
+      <window_info anchor="right" id="Database" order="4" weight="0.15921193" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,13 +507,71 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="app android" />
-    <option name="LAST_COMMIT_MESSAGE" value="app android" />
+    <MESSAGE value="删除app" />
+    <MESSAGE value="hash_test 才是可以的" />
+    <MESSAGE value="v4.16.1" />
+    <MESSAGE value="v4.17.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="v4.17.0" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/v4_17_0/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Android_xizihupan/hash_price.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="32" column="10" lean-forward="true" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/android_hash/android_hash_password.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+        <state relative-caret-position="200">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zentao/mysqlconnect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2480">
+          <caret line="124" column="31" selection-start-line="124" selection-start-column="31" selection-end-line="124" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zentao/analysis/line.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="85" selection-start-line="20" selection-start-column="85" selection-end-line="20" selection-end-column="85" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zentao/analysis/histogram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2320">
+          <caret line="123" column="118" selection-start-line="123" selection-start-column="64" selection-end-line="123" selection-end-column="118" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zentao/analysis/bar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zentao/analysis/barh.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="542">
+          <caret line="129" selection-start-line="129" selection-end-line="129" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
