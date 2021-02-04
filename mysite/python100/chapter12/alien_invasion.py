@@ -1,4 +1,3 @@
-
 import pygame
 from pygame.sprite import Group
 from python100.chapter12 import game_functions as gf

@@ -1,6 +1,5 @@
-import matplotlib.pyplot as plt
-
 from python100.chapter15.random_walk import RandomWalk
+import matplotlib.pyplot as plt
 
 # 创建一个RandomWalk实例
 while True:

@@ -1,7 +1,10 @@
 {
     "git.ignoreLimitWarning": true,
-    "editor.fontLigatures": null,
+    "editor.fontLigatures": true,
     "python.linting.pylintCategorySeverity.error": "Hint",
     "python.linting.pylintCategorySeverity.warning": "Hint",
+
+
+
     
 }
