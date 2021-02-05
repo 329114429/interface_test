@@ -1,4 +1,5 @@
 import sys
+
 sys.path.append(".")
 
 from python100.chapter15.random_walk import RandomWalk
@@ -22,6 +23,7 @@ while True:
 
     # 突出起点和终点
     plt.scatter(0, 0, c='green', edgecolors='none', s=100)
+
     plt.scatter(rw.x_values[-1],
                 rw.y_values[-1],
                 c='red',
