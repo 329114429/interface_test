@@ -5,7 +5,7 @@
     "python.linting.pylintCategorySeverity.warning": "Hint",
     "python.analysis.watchSearchPaths":true,
     "python.analysis.extraPaths":[
-        "./mysite/python100/chapter15"
+        "./mysite/python100/chapter15"  
     ]
 
 
