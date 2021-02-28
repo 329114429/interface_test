@@ -2,24 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30f1926e-1585-4642-85b2-6535face5c1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/api_loginCode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/api_phonelogin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/api_thread_post.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/api_thread_reply.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/logincode.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/page/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runMain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/test_logincode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/test_phonelogin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/test_thrad_reply.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcases/test_thread_post.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../learning_logs/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../alien_project/.idea/alien_project.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../alien_project/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../alien_project/.idea/misc.xml" beforeDir="false" />
@@ -341,6 +323,7 @@
       <change beforePath="$PROJECT_DIR$/../credit/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/webencodings/mklabels.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../credit/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/webencodings/tests.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../credit/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/webencodings/x_user_defined.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../learning_log/.idea/dataSources.local.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../learning_log/.idea/dataSources.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../learning_log/.idea/dataSources/544610c0-3a55-4137-8e2c-153632305b7f.xml" beforeDir="false" />
@@ -410,8 +393,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/api/api_loginCode.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="462">
+              <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
               <folding>
                 <element signature="e#36#51#0" expanded="true" />
               </folding>
@@ -669,7 +652,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614265109921</updated>
       <workItem from="1614265111812" duration="11794000" />
-      <workItem from="1614508634928" duration="6903000" />
+      <workItem from="1614508634928" duration="7678000" />
     </task>
     <servers />
   </component>
@@ -706,7 +689,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18697000" />
+    <option name="totallyTimeSpent" value="19472000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1021" extended-state="0" />
@@ -806,8 +789,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/api/api_loginCode.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="462">
+          <caret line="34" column="13" lean-forward="true" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
           <folding>
             <element signature="e#36#51#0" expanded="true" />
           </folding>
