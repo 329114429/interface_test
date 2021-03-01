@@ -15,6 +15,10 @@ class ReadJson(object):
 if __name__ == '__main__':
     data = ReadJson("logincode.json").read_json()
     url = data.get("url")
-    body = data.get("body")
+    phone = data.get("phone")
+    ret = data.get("ret")
+    text = data.get("text")
     print(url)
-    print(body)
+    print(phone)
+    print(ret)
+    print(text)
