@@ -1,6 +1,8 @@
 {
-  "url": "https://www.xiziquan.com/index.php?r=auth/loginCode",
-  "phone": 13437675841,
-  "ret": 0,
-  "text": "发送成功"
+  "case1": {
+    "url": "https://www.xiziquan.com/index.php?r=auth/loginCode",
+    "phone": 13437675841,
+    "ret": 0,
+    "text": "发送成功"
+  }
 }

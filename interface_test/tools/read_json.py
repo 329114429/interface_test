@@ -8,17 +8,19 @@ class ReadJson(object):
 
     def read_json(self):
         with open(self.filepath, "r", encoding="utf-8") as f:
-            data = json.load(f)
+            data = json.load(f)  # 转为字典格式
             return data
 
 
 if __name__ == '__main__':
     data = ReadJson("logincode.json").read_json()
-    url = data.get("url")
-    phone = data.get("phone")
-    ret = data.get("ret")
-    text = data.get("text")
-    print(url)
-    print(phone)
-    print(ret)
-    print(text)
+
+    for key, value in data.items():
+        url = value.get("url")
+        phone = value.get("phone")
+        ret = value.get("ret")
+        text = value.get("text")
+        print(url)
+        print(phone)
+        print(ret)
+        print(text)
