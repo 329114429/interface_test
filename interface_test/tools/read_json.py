@@ -15,12 +15,13 @@ class ReadJson(object):
 if __name__ == '__main__':
     data = ReadJson("logincode.json").read_json()
 
-    for key, value in data.items():
-        url = value.get("url")
-        phone = value.get("phone")
-        ret = value.get("ret")
-        text = value.get("text")
-        print(url)
-        print(phone)
-        print(ret)
-        print(text)
+
+    # for key, value in data.items():
+    #     url = value.get("url")
+    #     phone = value.get("phone")
+    #     ret = value.get("ret")
+    #     text = value.get("text")
+    #     print(url)
+    #     print(phone)
+    #     print(ret)
+    #     print(text)

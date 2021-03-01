@@ -30,4 +30,7 @@ class ApiPhoneLogin():
 if __name__ == '__main__':
     url = "https://www.xiziquan.com/index.php?r=auth/loginCode"
     phone = 13437675841
-
+    api_ticket = "44j1mn49mjbimk36171ljuucm5"
+    code = 909782
+    a = ApiPhoneLogin(url, phone, code, api_ticket).api_phonelogin()
+    print(a)

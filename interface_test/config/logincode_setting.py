@@ -5,7 +5,7 @@ import json
 
 
 class SettingLoginCode():
-    # 请求配置信息
+    # 请求手机配置信息
 
     def get_headers(self):
         headers = {
