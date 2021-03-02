@@ -7,19 +7,20 @@ import requests
 import json
 
 from interface_test.config.logincode_setting import SettingLoginCode
+from interface_test.api.api_loginCode import ApiLoginCode
 
 
 class ApiPhoneLogin():
     # 登录接口手机登录类
-    def __init__(self, url, phone, code, api_ticket):
+    def __init__(self, url, phone, code):
         self.url = url
         self.phone = phone
         self.code = code
-        self.api_ticket = api_ticket
         self.headers = SettingLoginCode().get_headers()
 
     def api_phonelogin(self):
-        params = {"params": {"phone": self.phone, "api_ticket": self.api_ticket, "code": self.code}}
+        api_ticket = ApiLoginCode(self.url, self.phone).get_api_ticket()
+        params = {"params": {"phone": self.phone, "api_ticket": api_ticket, "code": self.code}}
         body = SettingLoginCode().get_body(params)
 
         response = requests.post(self.url, headers=self.headers, data=body)
@@ -30,7 +31,6 @@ class ApiPhoneLogin():
 if __name__ == '__main__':
     url = "https://www.xiziquan.com/index.php?r=auth/loginCode"
     phone = 13437675841
-    api_ticket = "44j1mn49mjbimk36171ljuucm5"
-    code = 909782
-    a = ApiPhoneLogin(url, phone, code, api_ticket).api_phonelogin()
+    code = 1
+    a = ApiPhoneLogin(url, phone, code).api_phonelogin()
     print(a)

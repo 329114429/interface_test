@@ -26,10 +26,16 @@ class ApiLoginCode(object):
         response_dict = json.loads(response.text)
         return response_dict
 
+    def get_api_ticket(self):
+        response_dict = self.api_loginCode()
+        api_ticket = response_dict.get("data")
+        value = api_ticket.values()
+        return value
+
 
 if __name__ == '__main__':
     url = "https://www.xiziquan.com/index.php?r=auth/loginCode"
     phone = 13437675841
 
-    a = ApiLoginCode(url, phone).api_loginCode()
-    print(a)
+    a = ApiLoginCode(url, phone).get_api_ticket()
+    # print(a)
