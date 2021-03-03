@@ -6,8 +6,8 @@
 import requests
 import json
 
-from interface_test.config.logincode_setting import SettingLoginCode
-from interface_test.api.api_loginCode import ApiLoginCode
+from config.logincode_setting import SettingLoginCode
+from api.api_loginCode import ApiLoginCode
 
 
 class ApiPhoneLogin():

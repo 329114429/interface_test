@@ -6,8 +6,8 @@
 import requests
 import json
 from parameterized import parameterized
-from interface_test.tools.read_json import ReadJson
-from interface_test.config.logincode_setting import SettingLoginCode
+from tools.read_json import ReadJson
+from config.logincode_setting import SettingLoginCode
 
 
 class ApiLoginCode(object):
@@ -38,4 +38,4 @@ if __name__ == '__main__':
     phone = 13437675841
 
     a = ApiLoginCode(url, phone).get_api_ticket()
-    # print(a)
+    print(a)

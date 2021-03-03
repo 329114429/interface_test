@@ -14,5 +14,6 @@ file_path = "./reports/{}.html".format(time.strftime("%Y-%m-%d %H:%M:%S"))
 
 # 运行测试套件并生成测试报告
 with open(file_path, "wb") as f:
-    HTMLTestRunner(stream=f).run(suite)
+    runner = HTMLTestRunner.HTMLTestRunner(stream=f,title="测试报告",description="测试用例")
+    runner.run(suite)
     f.close()

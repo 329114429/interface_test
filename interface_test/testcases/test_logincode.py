@@ -7,10 +7,10 @@
 import json
 
 import unittest
-from interface_test.api.api_loginCode import ApiLoginCode
+from api.api_loginCode import ApiLoginCode
 
 from parameterized import parameterized
-from interface_test.tools.read_json import ReadJson
+from tools.read_json import ReadJson
 
 
 # 读取数据函数
