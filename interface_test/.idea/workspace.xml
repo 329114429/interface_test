@@ -323,12 +323,6 @@
       <change beforePath="$PROJECT_DIR$/../credit/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/webencodings/mklabels.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../credit/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/webencodings/tests.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../credit/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/webencodings/x_user_defined.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/api_loginCode.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/api_loginCode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/api_phonelogin.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/api_phonelogin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/api_thread_post.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/api_thread_post.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runMain.py" beforeDir="false" afterPath="$PROJECT_DIR$/runMain.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcases/test_logincode.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_logincode.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../learning_log/.idea/dataSources.local.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../learning_log/.idea/dataSources.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../learning_log/.idea/dataSources/544610c0-3a55-4137-8e2c-153632305b7f.xml" beforeDir="false" />
@@ -411,8 +405,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/api/api_phonelogin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="360">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="e#32#47#0" expanded="true" />
               </folding>
@@ -692,7 +686,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614265109921</updated>
       <workItem from="1614265111812" duration="11794000" />
-      <workItem from="1614508634928" duration="14679000" />
+      <workItem from="1614508634928" duration="14938000" />
     </task>
     <servers />
   </component>
@@ -729,18 +723,17 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26473000" />
+    <option name="totallyTimeSpent" value="26732000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1021" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2539936" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2539936" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32938644" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32938644" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32938644" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -749,7 +742,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32938644" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32938644" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -845,8 +838,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/api/api_phonelogin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="360">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="e#32#47#0" expanded="true" />
           </folding>
