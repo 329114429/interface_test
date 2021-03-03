@@ -1,11 +1,11 @@
 """
-设置基础的配置
+验证码获取设置基础的配置
 """
 import json
 
 
 class SettingLoginCode():
-    # 请求手机配置信息
+    # 验证码请求手机配置信息
 
     def get_headers(self):
         headers = {
