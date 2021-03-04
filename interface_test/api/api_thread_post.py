@@ -18,10 +18,10 @@ class ThreadPost():
         self.content = content
         self.headers = SettingThreadPost().get_headers()
 
-    def thread_post(self):
+    def thread_post(self, *args, **kwargs):
         # 发帖函数方法
         params = {
-            {
+            "params": {
                 "fid": self.fid,
                 "mode": self.mode,
                 "phonetype": self.phonetype,
@@ -29,8 +29,19 @@ class ThreadPost():
                 "content": self.content
             }
         }
-        body = SettingThreadPost().get_body(params=params)
+        body = SettingThreadPost().get_body(params)
 
-        response = requests.post(self.url, self.headers, data=body)
+        response = requests.post(self.url, headers=self.headers, data=body)
         response_dict = json.loads(response.text)
         return response_dict
+
+
+if __name__ == '__main__':
+    url = "https://www.xiziquan.com/index.php?r=thread/post&v=4.8.0"
+    fid = 16
+    mode = 1
+    phonetype = 1
+    title = "找小编"
+    content = "删除"
+    t = ThreadPost(url, fid, mode, phonetype, title, content).thread_post()
+    print(t)
