@@ -38,4 +38,4 @@ if __name__ == '__main__':
     phone = 13437675841
 
     a = ApiLoginCode(url, phone).get_api_ticket()
-    # print(a)
+    print(a)
