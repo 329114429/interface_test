@@ -12,7 +12,6 @@ class ApiThreadReply():
         self.url = url
         self.phonetype = phonetype
         self.quoteusername = quoteusername
-
         self.tid = tid
         self.content = content
         self.headers = SettingThreadReply().get_headers()
@@ -30,14 +29,14 @@ class ApiThreadReply():
         body = SettingThreadReply().get_body(params)
         response = requests.post(self.url, headers=self.headers, data=body)
         response_dict = json.loads(response.text)
-        print(response_dict)
+        return response_dict
 
 
 if __name__ == '__main__':
     url = "https://www.xiziquan.com/index.php?r=thread/reply&v=4.2.1"
     phonetype = 1
     quoteusername = "jiushitiao"
-    tid = 4882932
-    content = "删除"
+    tid = 4882687
+    content = "小编在哪？"
     a = ApiThreadReply(url, phonetype, quoteusername, tid, content).thread_reply()
     print(a)
