@@ -18,7 +18,7 @@ class ThreadPost():
         self.content = content
         self.headers = SettingThreadPost().get_headers()
 
-    def thread_post(self, *args, **kwargs):
+    def thread_post(self):
         # 发帖函数方法
         params = {
             "params": {
@@ -41,7 +41,7 @@ if __name__ == '__main__':
     fid = 16
     mode = 1
     phonetype = 1
-    title = "找小编"
-    content = "删除"
+    title = "找小编删除帖子"
+    content = "删除帖子"
     t = ThreadPost(url, fid, mode, phonetype, title, content).thread_post()
     print(t)
