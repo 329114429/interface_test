@@ -14,12 +14,10 @@ from tools.read_json import ReadJson
 
 
 # 读取数据函数
-def get_data():
+def get_logincode_data():
     data = ReadJson("logincode.json").read_json()
     arrs_list = []
-
     arrs_list.append((data.get("url"), data.get("phone"), data.get("ret"), data.get("text")))
-
     return arrs_list
 
 
@@ -32,7 +30,7 @@ class TestLoginCode(unittest.TestCase):
     def tearDown(self):
         print("teardown")
 
-    @parameterized.expand(get_data())
+    @parameterized.expand(get_logincode_data())
     def test_loginCode(self, url, phone, ret, text):
         # 调用登录验证码获取方法
 
