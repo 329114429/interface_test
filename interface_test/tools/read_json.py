@@ -14,7 +14,8 @@ class ReadJson(object):
 
 if __name__ == '__main__':
     # data = ReadJson("logincode.json").read_json()
-    data = ReadJson("threadpost.json").read_json()
+    # data = ReadJson("threadpost.json").read_json()
+    data = ReadJson("threadreply.json").read_json()
     print(data)
 
     # for key, value in data.items():

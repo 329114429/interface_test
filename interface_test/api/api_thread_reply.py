@@ -37,6 +37,6 @@ if __name__ == '__main__':
     phonetype = 1
     quoteusername = "jiushitiao"
     tid = 4882687
-    content = "小编在哪？"
+    content = "可以"
     a = ApiThreadReply(url, phonetype, quoteusername, tid, content).thread_reply()
     print(a)
