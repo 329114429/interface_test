@@ -8,6 +8,9 @@ from parameterized import parameterized
 from api.api_thread_reply import ApiThreadReply
 from tools.read_json import ReadJson
 
+from HTMLTestRunner import HTMLTestRunner
+import time
+
 
 def get_thread_reply_data():
     # 回帖函数的读取
@@ -43,4 +46,11 @@ class TestThreadReply(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    unittest.main()
+    # unittest.main()
+    file = "./reports/{}.html".format(time.strftime("%Y-%m-%d %H:%M:%S"))
+    fp = open(file, "wb")
+    suite = unittest.TestSuite()
+    suite.addTest(TestThreadReply("test_thread_reply"))
+    runner = HTMLTestRunner.HTMLTestRunner(stream=fp, title='测试报告', description='测试结果')
+    runner.run(suite)
+    fp.close()

@@ -13,7 +13,7 @@ suite = unittest.defaultTestLoader.discover("./testcases", pattern="test*.py")
 file_path = "./reports/{}.html".format(time.strftime("%Y-%m-%d %H:%M:%S"))
 
 # 运行测试套件并生成测试报告
-with open(file_path, "wb") as f:
-    runner = HTMLTestRunner.HTMLTestRunner(stream=f)
+with open(file_path, "w") as f:
+    runner = HTMLTestRunner.HTMLTestRunner(stream=f,title="测试报告", description=u"用例执行情况")
     runner.run(suite)
     f.close()
