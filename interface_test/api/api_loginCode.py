@@ -5,13 +5,19 @@
 # 导入requests包
 import requests
 import json
-from parameterized import parameterized
-from tools.read_json import ReadJson
+import logging
+import time
+
 from config.logincode_setting import SettingLoginCode
 
 
 class ApiLoginCode(object):
     # 登录接口的验证码获取类
+
+    # logging.basicConfig(filename="./log/" + "{}".format(time.strftime("%Y-%m-%d %H:%M:%S")) + ".log",
+    #                     level=logging.DEBUG,
+    #                     format=' %(asctime)s - %(levelname)s - %(message)s', filemode='a',
+    #                     datefmt='%Y-%m-%d%I:%M:%S %p')
 
     def __init__(self, url, phone):
         self.url = url
@@ -35,7 +41,10 @@ class ApiLoginCode(object):
 
 if __name__ == '__main__':
     url = "https://www.xiziquan.com/index.php?r=auth/loginCode"
-    phone = 13437675841
+    phone = 1343767584
 
-    a = ApiLoginCode(url, phone).get_api_ticket()
-    print(a)
+    a = ApiLoginCode(url, phone)
+    msg = a.api_loginCode()
+    # value = a.get_api_ticket()
+    print(msg)
+    # print(value)

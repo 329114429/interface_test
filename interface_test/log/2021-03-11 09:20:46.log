@@ -1,0 +1,6 @@
+ 2021-03-1109:20:46 AM - DEBUG - Starting new HTTPS connection (1): www.xiziquan.com:443
+ 2021-03-1109:20:46 AM - DEBUG - https://www.xiziquan.com:443 "POST /index.php?r=auth/loginCode HTTP/1.1" 200 None
+ 2021-03-1109:20:46 AM - DEBUG - Starting new HTTPS connection (1): www.xiziquan.com:443
+ 2021-03-1109:20:47 AM - DEBUG - https://www.xiziquan.com:443 "POST /index.php?r=thread/reply&v=4.2.1 HTTP/1.1" 200 None
+ 2021-03-1109:20:47 AM - DEBUG - Starting new HTTPS connection (1): www.xiziquan.com:443
+ 2021-03-1109:20:47 AM - DEBUG - https://www.xiziquan.com:443 "POST /index.php?r=thread/post&v=4.8.0 HTTP/1.1" 200 None

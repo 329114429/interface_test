@@ -15,15 +15,20 @@ class ReadJson(object):
 if __name__ == '__main__':
     # data = ReadJson("logincode.json").read_json()
     # data = ReadJson("threadpost.json").read_json()
-    data = ReadJson("threadreply.json").read_json()
-    print(data)
+    # data = ReadJson("threadreply.json").read_json()
+    # print(data)
 
-    # for key, value in data.items():
-    #     url = value.get("url")
-    #     phone = value.get("phone")
-    #     ret = value.get("ret")
-    #     text = value.get("text")
-    #     print(url)
-    #     print(phone)
-    #     print(ret)
-    #     print(text)
+    data = ReadJson("logincode_more.json").read_json()
+    arrs_list = []
+    for key, value in data.items():
+        # print(key)
+        # print(value)
+        arrs_list.append(
+            (
+                value.get("url"),
+                value.get("phone"),
+                value.get("ret"),
+                value.get("text")
+            )
+        )
+    print(arrs_list)

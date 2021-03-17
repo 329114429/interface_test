@@ -17,7 +17,31 @@ from tools.read_json import ReadJson
 def get_logincode_data():
     data = ReadJson("logincode.json").read_json()
     arrs_list = []
-    arrs_list.append((data.get("url"), data.get("phone"), data.get("ret"), data.get("text")))
+    arrs_list.append(
+        (
+            data.get("url"),
+            data.get("phone"),
+            data.get("ret"),
+            data.get("text")
+        )
+    )
+    return arrs_list
+
+
+# 读取多个用例数据函数
+def get_morelogincode_data():
+    data = ReadJson("logincode_more.json").read_json()
+    arrs_list = []
+    for key, value in data.items():
+        arrs_list.append(
+            (
+                value.get("url"),
+                value.get("phone"),
+                value.get("ret"),
+                value.get("text")
+            )
+        )
+    # print(arrs_list)
     return arrs_list
 
 
@@ -30,7 +54,7 @@ class TestLoginCode(unittest.TestCase):
     def tearDown(self):
         print("teardown")
 
-    @parameterized.expand(get_logincode_data())
+    @parameterized.expand(get_morelogincode_data())
     def test_loginCode(self, url, phone, ret, text):
         # 调用登录验证码获取方法
 
