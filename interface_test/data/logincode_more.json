@@ -13,7 +13,7 @@
   },
   "login3": {
     "url": "https://www.xiziquan.com/index.php?r=auth/loginCode",
-    "phone": 13437675,
+    "phone": 1,
     "ret": 500,
     "text": "请输入正确的手机号码"
   }

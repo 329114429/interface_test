@@ -4,7 +4,7 @@ import json
 class ReadJson(object):
     # 读取json类
     def __init__(self, filename):
-        self.filepath = "./data/" + filename
+        self.filepath = "/Users/hao/PycharmProjects/interface_test/interface_test/data/" + filename
 
     def read_json(self):
         with open(self.filepath, "r", encoding="utf-8") as f:

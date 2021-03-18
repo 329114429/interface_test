@@ -41,7 +41,7 @@ class ApiLoginCode(object):
 
 if __name__ == '__main__':
     url = "https://www.xiziquan.com/index.php?r=auth/loginCode"
-    phone = 1343767584
+    phone = 13437675841
 
     a = ApiLoginCode(url, phone)
     msg = a.api_loginCode()
