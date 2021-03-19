@@ -54,10 +54,21 @@ class TestLoginCode(unittest.TestCase):
     def tearDown(self):
         print("teardown")
 
-    @parameterized.expand(get_morelogincode_data())
+    @parameterized.expand(get_logincode_data())
     def test_loginCode(self, url, phone, ret, text):
         # 调用登录验证码获取方法
 
+        response = ApiLoginCode(url, phone).api_loginCode()
+
+        # 断言响应状态码
+        self.assertEqual(ret, response["ret"])
+
+        # 响应信息
+        self.assertEqual(text, response["text"])
+
+    @parameterized.expand(get_morelogincode_data())
+    def test_morelogiCode(self, url, phone, ret, text):
+        # 调用多用例 登录验证码获取方法
         response = ApiLoginCode(url, phone).api_loginCode()
 
         # 断言响应状态码
