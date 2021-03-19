@@ -3,13 +3,27 @@
     "url": "https://www.xiziquan.com/index.php?r=thread/reply&v=4.2.1",
     "phonetype": 1,
     "quoteusername": "jiushitiao",
-    "tid": 4882687,
+    "tid": 4864883,
     "content": "可以",
     "ret": 0,
     "text": "成功"
   },
   "reply2": {
+    "url": "https://www.xiziquan.com/index.php?r=thread/reply&v=4.2.1",
+    "phonetype": 1,
+    "quoteusername": "jiushitiao",
+    "tid": 4864883,
+    "content": "",
+    "ret": 1011,
+    "text": "回复失败，内容为空或包含非法字符"
   },
   "reply3": {
+    "url": "https://www.xiziquan.com/index.php?r=thread/reply&v=4.2.1",
+    "phonetype": 1,
+    "quoteusername": "jiushitiao",
+    "tid": "",
+    "content": "可以",
+    "ret": 1019,
+    "text": "帖子不存在"
   }
 }

@@ -30,7 +30,21 @@ def get_thread_reply_data():
 
 def get_morethread_reply_data():
     # 回帖多个用例参数读取
-    pass
+    data = ReadJson("threadreply_more.json").read_json()
+    arrs_list = []
+    for key, value in data.items():
+        arrs_list.append(
+            (
+                value.get("url"),
+                value.get("phonetype"),
+                value.get("quoteusername"),
+                value.get("tid"),
+                value.get("content"),
+                value.get("ret"),
+                value.get("text")
+            )
+        )
+    return arrs_list
 
 
 class TestThreadReply(unittest.TestCase):
@@ -49,13 +63,21 @@ class TestThreadReply(unittest.TestCase):
         self.assertEqual(ret, response["ret"])
         self.assertEqual(text, response["text"])
 
+    @parameterized.expand(get_morethread_reply_data())
+    def test_morethread_reply(self, url, phonetype, quoteusername, tid, content, ret, text):
+        # 调用多个用例回帖方法
+        response = ApiThreadReply(url, phonetype, quoteusername, tid, content).thread_reply()
+
+        self.assertEqual(ret, response["ret"])
+        self.assertEqual(text, response["text"])
+
 
 if __name__ == '__main__':
-    # unittest.main()
-    file = "./reports/{}.html".format(time.strftime("%Y-%m-%d %H:%M:%S"))
-    fp = open(file, "wb")
-    suite = unittest.TestSuite()
-    suite.addTest(TestThreadReply("test_thread_reply"))
-    runner = HTMLTestRunner.HTMLTestRunner(stream=fp, title='测试报告', description='测试结果')
-    runner.run(suite)
-    fp.close()
+    unittest.main()
+    # file = "./reports/{}.html".format(time.strftime("%Y-%m-%d %H:%M:%S"))
+    # fp = open(file, "wb")
+    # suite = unittest.TestSuite()
+    # suite.addTest(TestThreadReply("test_thread_reply"))
+    # runner = HTMLTestRunner.HTMLTestRunner(stream=fp, title='测试报告', description='测试结果')
+    # runner.run(suite)
+    # fp.close()
