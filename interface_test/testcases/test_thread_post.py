@@ -26,6 +26,26 @@ def get_thread_post_data():
     return arrs_list
 
 
+def get_morethread_post_data():
+    # 发帖多个用例参数读取
+    data = ReadJson("threadpost_more.json").read_json()
+    arrs_list = []
+    for key, value in data.items():
+        arrs_list.append(
+            (
+                value.get("url"),
+                value.get("fid"),
+                value.get("mode"),
+                value.get("phonetype"),
+                value.get("title"),
+                value.get("content"),
+                value.get("ret"),
+                value.get("text")
+            )
+        )
+    return arrs_list
+
+
 class TestThreadPost(unittest.TestCase):
     # 新建发帖测试类
 
@@ -41,7 +61,14 @@ class TestThreadPost(unittest.TestCase):
         response = ThreadPost(url, fid, mode, phonetype, title, content).thread_post()
 
         self.assertEqual(ret, response["ret"])
+        self.assertEqual(text, response["text"])
 
+    @parameterized.expand(get_morethread_post_data())
+    def test_morethread_post(self, url, fid, mode, phonetype, title, content, ret, text):
+        # 调用多个测试用例
+        response = ThreadPost(url, fid, mode, phonetype, title, content).thread_post()
+
+        self.assertEqual(ret, response["ret"])
         self.assertEqual(text, response["text"])
 
 

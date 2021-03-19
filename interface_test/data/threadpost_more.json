@@ -10,7 +10,33 @@
     "text": "成功"
   },
   "post2": {
+    "url": "https://www.xiziquan.com/index.php?r=thread/post&v=4.8.0",
+    "fid": 16,
+    "mode": 1,
+    "phonetype": 1,
+    "title": "",
+    "content": "",
+    "ret": 1011,
+    "text": "发布失败，请重新编辑内容"
   },
   "post3": {
+    "url": "https://www.xiziquan.com/index.php?r=thread/post&v=4.8.0",
+    "fid": 16,
+    "mode": 1,
+    "phonetype": 1,
+    "title": "找工作人员",
+    "content": "",
+    "ret": 1011,
+    "text": "发布失败，请重新编辑内容"
+  },
+  "post4": {
+    "url": "https://www.xiziquan.com/index.php?r=thread/post&v=4.8.0",
+    "fid": 16,
+    "mode": 1,
+    "phonetype": 1,
+    "title": "",
+    "content": "找工作人员",
+    "ret": 0,
+    "text": "成功"
   }
 }

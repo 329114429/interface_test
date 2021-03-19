@@ -28,6 +28,11 @@ def get_thread_reply_data():
     return arrs_list
 
 
+def get_morethread_reply_data():
+    # 回帖多个用例参数读取
+    pass
+
+
 class TestThreadReply(unittest.TestCase):
     # 新建回帖测试类
     def setUp(self):
